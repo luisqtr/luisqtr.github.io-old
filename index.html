@@ -23,6 +23,14 @@
     <!-- Custom styles for this template -->
     <link href="css/resume.css" rel="stylesheet">
 
+	<!-- YouTube Popup-->
+	<script src="vendor/bootstrap/youtube-popup-player-plugin/bootstrap.youtubepopup.min.js"></script>
+	<script type="text/javascript">
+	$(function () {
+		$(".youtube").YouTubeModal({autoplay:0, width:640, height:480});
+	});
+	</script>
+	
   </head>
 
   <body id="page-top">
@@ -242,20 +250,25 @@
             <li>
               <i class="fa-li fa fa-check"></i>
               Scrum &amp;  Kanban System </li>
+			
+			<li>  
+			<i class="fa-li fa fa-check"></i>
+              Interaction Design </li>
           </ul>
 		  
         </div>
       </section>
 
+	  <a class="youtube" href="http://www.youtube.com/watch?v=4eYSpIz2FjU">Link title</a>
+	  <a class="youtube" href="http://www.youtube.com/watch?v=4eYSpIz2FjU" title="jQuery YouTube Popup Player Plugin TEST"><i class="fa fa-youtube-square"></i> DEMO</a>
+	  
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="portfolio">
         <div class="my-auto">
           <h2 class="mb-5">Portfolio</h2>
-<!--           <p>[Under construction]</p>
-          <p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus efficitur lacus a fermentum viverra. Mauris pellentesque elit quis magna ornare, in elementum est auctor. Vivamus scelerisque, mi id fermentum vestibulum.</p> -->
-		
+	
 		<div class="row no-gutters">
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#">
+            <a class="portfolio-item" href="#portfolio">
               <span class="caption">
                 <span class="caption-content">
                   <h2>3Dream</h2>
@@ -266,7 +279,7 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#">
+            <a class="portfolio-item" href="#portfolio">
               <span class="caption">
                 <span class="caption-content">
                   <h2>Unity3D Projects</h2>
@@ -277,7 +290,7 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#">
+            <a class="portfolio-item" href="#portfolio">
               <span class="caption">
                 <span class="caption-content">
                   <h2>Know Yourself</h2>
@@ -288,7 +301,7 @@
             </a>
           </div>
           <div class="col-lg-6">
-            <a class="portfolio-item" href="#">
+            <a class="portfolio-item" href="#portfolio">
               <span class="caption">
                 <span class="caption-content">
                   <h2>Human-Computer Interaction</h2>
@@ -339,7 +352,8 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/resume.min.js"></script>
-
+	
+	
   </body>
 
 </html>
