@@ -20,16 +20,11 @@
     <link href="vendor/devicons/css/devicons.min.css" rel="stylesheet">
     <link href="vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
 
+	<!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+	
     <!-- Custom styles for this template -->
     <link href="css/resume.css" rel="stylesheet">
-
-	<!-- YouTube Popup-->
-	<script src="vendor/bootstrap/youtube-popup-player-plugin/bootstrap.youtubepopup.min.js"></script>
-	<script type="text/javascript">
-	$(function () {
-		$(".youtube").YouTubeModal({autoplay:0, width:640, height:480});
-	});
-	</script>
 	
   </head>
 
@@ -258,59 +253,84 @@
 		  
         </div>
       </section>
-
-	  <a class="youtube" href="http://www.youtube.com/watch?v=4eYSpIz2FjU">Link title</a>
-	  <a class="youtube" href="http://www.youtube.com/watch?v=4eYSpIz2FjU" title="jQuery YouTube Popup Player Plugin TEST"><i class="fa fa-youtube-square"></i> DEMO</a>
 	  
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="portfolio">
         <div class="my-auto">
           <h2 class="mb-5">Portfolio</h2>
 	
 		<div class="row no-gutters">
-          <div class="col-lg-6">
-            <a class="portfolio-item" href="#portfolio">
+          <div class="col-lg-4">
+            <a class="portfolio-item" href="#portfolio-modal-1">
               <span class="caption">
                 <span class="caption-content">
                   <h2>3Dream</h2>
-                  <p class="mb-0">VR tool used to train emotional regulation in psychology. It uses HTC-Vive and wearable devices to estimate user’s emotion and create content procedurally accordingly.</p>
+                  <p class="mb-0"> </p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio/portfolio-1.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/3Dream.png" alt="">
             </a>
           </div>
-          <div class="col-lg-6">
-            <a class="portfolio-item" href="#portfolio">
+		  
+          <div class="col-lg-4">
+            <a class="portfolio-item" href="#portfolio-modal-2">
               <span class="caption">
                 <span class="caption-content">
-                  <h2>Unity3D Projects</h2>
-                  <p class="mb-0">Calibrator tool for VR Cave systems and Visual Scripting tool for adaptive applications.</p>
+                  <h2>BL Engine</h2>
+                  <p class="mb-0"> </p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio/portfolio-2.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/BiocyberneticConsole.png" alt="">
             </a>
           </div>
-          <div class="col-lg-6">
-            <a class="portfolio-item" href="#portfolio">
+		  
+          <div class="col-lg-4">
+            <a class="portfolio-item" href="#portfolio-modal-3">
               <span class="caption">
                 <span class="caption-content">
-                  <h2>Know Yourself</h2>
-                  <p class="mb-0">Academic advice for an educational tool for children between 5-6 years old, about sex education and self-esteem.</p>
+                  <h2>Calibrator CAVE System</h2>
+                  <p class="mb-0"> </p>
                 </span>
               </span>
-              <img class="img-fluid" src="img/portfolio/portfolio-3.jpg" alt="">
+              <img class="img-fluid" src="img/portfolio/Calibrator.png" alt="">
             </a>
           </div>
-          <div class="col-lg-6">
-            <a class="portfolio-item" href="#portfolio">
+		  
+          <div class="col-lg-4">
+            <a class="portfolio-item" href="#portfolio-modal-4">
               <span class="caption">
                 <span class="caption-content">
-                  <h2>Human-Computer Interaction</h2>
-                  <p class="mb-0">Development of interaction interfaces using digital health sensors and communication protocols in C++.</p>
+                  <h2>Quality Control with Computer Vision</h2>
+                  <p class="mb-0"> </p>
                 </span>
               </span>
               <img class="img-fluid" src="img/portfolio/portfolio-4.jpg" alt="">
             </a>
           </div>
+		  
+		  <div class="col-lg-4">
+            <a class="portfolio-item" href="#portfolio-modal-5">
+              <span class="caption">
+                <span class="caption-content">
+                  <h2>Know Yourself</h2>
+                  <p class="mb-0"> </p>
+                </span>
+              </span>
+              <img class="img-fluid" src="img/portfolio/Conocete.png" alt="">
+            </a>
+          </div>
+		  
+		  <div class="col-lg-4">
+            <a class="portfolio-item" href="#portfolio-modal-6">
+              <span class="caption">
+                <span class="caption-content">
+                  <h2>Human-Computer Interfaces</h2>
+                  <p class="mb-0"> </p>
+                </span>
+              </span>
+              <img class="img-fluid" src="img/portfolio/HCI.png" alt="">
+            </a>
+          </div>
+		  
         </div>
 		
 		
@@ -343,15 +363,156 @@
 
     </div>
 
+	<!-- Portfolio Modals -->
+
+    <!-- Portfolio Modal 1 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-10 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">3Dream - The Emotional Labyrinth</h2>
+              <hr class="star-dark mb-5">
+              <!-- <img class="img-fluid mb-5" src="img/portfolio/portfolio-3.jpg" alt=""> -->
+			  <iframe width="560" height="315" src="https://www.youtube.com/embed/Jz3TDvnZ3zo?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+              <p class="mb-5">VR tool used to train emotional regulation in psychology. It uses HTC-Vive and wearable devices to estimate user’s emotion and create content procedurally accordingly.</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	<!-- Portfolio Modal 2 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-10 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">BL Engine</h2>
+              <hr class="star-dark mb-5">
+			  <iframe width="560" height="315" src="https://www.youtube.com/embed/-c7zrL6zKK0?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+              <p class="mb-5">The Biocybernetic Loop Engine is an integrated software tool designed for an easy creation of physiologically modulated videogames by means of wearable sensors. The BL Engine includes a signal acquisition panel, which facilitates the connectivity of multiple cardiac-related physiological sensors and the processing of the signals, a biocybernetic console to rapidly create and iterate adaptive rules using a visual scripting module, and a game connector tool that ties physiological modulations to game variables. <a href="https://neurorehabilitation.m-iti.org/tools/en/ble-overview">Link to official project</a></p>
+			  
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	<!-- Portfolio Modal 3 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-3">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-10 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Calibrator CAVE System</h2>
+              <hr class="star-dark mb-5">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/Jz3TDvnZ3zo?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+              <p class="mb-5">The KAVE is a Unity plugin that: [1] Adds parallax effect to Unity projects through Kinect v2 head tracking. [2] Supports up to 8 screens/projectors in any physical configuration (normal desktop screen, CAVE, etc...). [3] Features full skeleton tracking for interaction with virtual objects. 
+			  The plugin requires a calibration file with the position, orientation and size of the screens, projectors, projection surfaces and Kinect sensor. <a href="https://neurorehabilitation.m-iti.org/tools/en/kave-overview">Link to official project</a> </p>
+				
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	<!-- Portfolio Modal 4 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-4">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-10 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Quality Control using Computer Vision</h2>
+              <hr class="star-dark mb-5">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/Jz3TDvnZ3zo?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+              <p class="mb-5">[Under construction!!]</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	<!-- Portfolio Modal 5 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-5">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-10 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Know Yourself (Conócete)</h2>
+              <hr class="star-dark mb-5">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/DKqjgoHWPIY?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+              <p class="mb-5">Academic advice for an educational tool for children between 5-6 years old, about sex education and self-esteem.</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	<!-- Portfolio Modal 6 -->
+    <div class="portfolio-modal mfp-hide" id="portfolio-modal-6">
+      <div class="portfolio-modal-dialog bg-white">
+        <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+          <i class="fa fa-3x fa-times"></i>
+        </a>
+        <div class="container text-center">
+          <div class="row">
+            <div class="col-lg-10 mx-auto">
+              <h2 class="text-secondary text-uppercase mb-0">Human-Computer Interfaces</h2>
+              <hr class="star-dark mb-5">
+              <iframe width="560" height="315" src="https://www.youtube.com/embed/akAH4v1CvdA?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+              <p class="mb-5">Facilitating interaction with a videowall of 6m x 3m long, using hardware interfaces (xbox controller, haptic interfaces, mobile devices) connected using VRPN and TUIO protocol in C++.</p>
+              <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                <i class="fa fa-close"></i>
+                Close Project</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	
+	
     <!-- Bootstrap core JavaScript -->
     <script src="vendor/jquery/jquery.min.js"></script>
     <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
     <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
-
+	<script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+	
     <!-- Custom scripts for this template -->
-    <script src="js/resume.min.js"></script>
+    <script src="js/resume.js"></script>
 	
 	
   </body>
