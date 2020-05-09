@@ -1,9 +1,10 @@
 ---
-layout: default
-# The Blog page layout
-breadcrumb:
-  -
-    label: Blog
+#layout: page
+# The Home page layout
+# v2.0
+# https://github.com/cotes2020/jekyll-theme-chirpy
+# © 2017-2019 Cotes Chung
+# MIT Licensed
 ---
 
 <div id="post-list">
@@ -19,6 +20,7 @@ breadcrumb:
       {{ _content | markdownify | strip_html | truncate: 200 }}
       </p>
     </div>
+
     <div class="post-meta text-muted">
       <!-- posted date -->
       <i class="far fa-clock fa-fw"></i>
