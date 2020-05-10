@@ -14,7 +14,7 @@
   path: tabs
   url: cv
 -
-  name: Portfolio
+  name: Projects
   icon: "fas fa-briefcase"
   path: tabs
   url: portfolio
@@ -39,7 +39,7 @@
 #   path: tabs
 #   url: tags
 -
-  name: Archives
+  name: Blog Archives
   path: tabs
   url: archives
   icon: "fas fa-archive"

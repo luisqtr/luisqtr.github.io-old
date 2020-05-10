@@ -6,7 +6,7 @@
 * MIT Licensed
 */
 
-@import "_addon/fonts";
+@import "_addon/fonts.scss";
 @import "_addon/module";
 @import "_addon/variables";
 @import "_colors/light-typography";
@@ -256,8 +256,8 @@ $sidebar-display: "sidebar-display";
 #site-subtitle {
   font-size: 95%;
   text-align: center;
-  color: #828282;
-  line-height: 1.2rem;
+  color: #C2C2C2;
+  line-height: 1.5rem;
   word-spacing: 1px;
   margin: .5rem 1.5rem 2rem 1.5rem;
 }

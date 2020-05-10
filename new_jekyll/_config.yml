@@ -6,12 +6,14 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: Luis Quintero                          # the main title
+# the main title
+title: Luis Quintero
 
-tagline: Researcher in Machine Learning and dev in XR Technology  # it will display as the sub-title
+# it will display as the sub-title
+tagline: Researcher and Developer. <br> <i>Data Science, Machine Learning <br>for Extended Reality Technologies (VR/AR/XR)</i>
 
 description: >-                        # used by seo meta and the atom feed
-  Luis Quintero. Personal Website.
+  Luis Quintero - Personal Website. 
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://luiseduve.github.io'
