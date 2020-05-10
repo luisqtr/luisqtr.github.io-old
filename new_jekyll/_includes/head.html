@@ -62,9 +62,9 @@
     integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ="
     crossorigin="anonymous">
 
-  {% if page.layout == 'blog' %}
-    <link rel="preload" href="{{ site.baseurl }}/assets/css/blog.css" as="style">
-    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/blog.css">
+  {% if page.layout == 'home' %}
+    <link rel="preload" href="{{ site.baseurl }}/assets/css/home.css" as="style">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/home.css">
 
   {% elsif page.layout == 'page' %}
 
@@ -127,7 +127,7 @@
 
   <script src="{{ site.baseurl }}/assets/js/dist/commons.js" async></script>
 
-  {% if page.layout == 'blog' or page.layout == 'post' %}
+  {% if page.layout == 'home' or page.layout == 'post' %}
     <script src="{{ site.baseurl }}/assets/js/dist/timeago.min.js" async></script>
     {% if site.google_analytics.pv.enabled %}
       <script src="{{ site.baseurl }}/assets/data/pv-data.json"></script>

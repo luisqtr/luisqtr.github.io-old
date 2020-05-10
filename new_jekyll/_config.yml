@@ -23,8 +23,8 @@ avatar: /assets/img/profile.jpg   # support internet resources
 github:
   username: luiseduve             # change to your github username
 
-#twitter:
-#  username: twitter_username            # change to your twitter username
+twitter:
+  username: twitter_username            # change to your twitter username
 
 linkedin:
   username: levelezq            # change to your twitter username
@@ -35,7 +35,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/luiseduve       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/levelezq
@@ -52,7 +52,7 @@ timezone: Europe/Stockholm
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: ''
+  id: '166053620'         # '' to leave empty
   # The Google Analytics pageviews switch.
 
   pv:
@@ -77,7 +77,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: light
 
 # boolean type, global switch for ToC in posts.
 toc: true
