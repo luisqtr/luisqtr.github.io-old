@@ -1,7 +1,5 @@
 # The Site Settings
 # v2.0
-# https://github.com/cotes2020/jekyll-theme-chirpy
-# © 2017-2019 Cotes Chung
 # MIT licensed
 
 
@@ -27,6 +25,9 @@ github:
 
 #twitter:
 #  username: twitter_username            # change to your twitter username
+
+linkedin:
+  username: levelezq            # change to your twitter username
 
 social:
   name: Luis Quintero                  # it will shows as the copyright owner in Footer
@@ -132,7 +133,7 @@ defaults:
           url: /
         -
           label: Tags
-          url: /tabs/tags/
+          url: /tags/
   -
     scope:
       path: categories
@@ -145,7 +146,7 @@ defaults:
           url: /
         -
           label: Categories
-          url: /tabs/categories/
+          url: /categories/
   -
     scope:
       path: tabs
