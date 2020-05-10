@@ -9,11 +9,6 @@
   name: Home
   icon: "fas fa-home"
 -
-  name: CV
-  icon: "fas fa-user"
-  path: tabs
-  url: cv
--
   name: Projects
   icon: "fas fa-briefcase"
   path: tabs
@@ -22,7 +17,12 @@
   name: Research
   icon: "fas fa-graduation-cap"
   path: tabs
-  url: about
+  url: research
+-
+  name: CV
+  icon: "fas fa-user"
+  path: tabs
+  url: cv
 # -
 #   name: Blog
 #   icon: "fas fa-comments"
