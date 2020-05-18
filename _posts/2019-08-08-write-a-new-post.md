@@ -148,6 +148,10 @@ If you want to display the **Liquid** snippet, surround the liquid code with `{%
 ```
 {% endraw %}
 
+#### Add images from assets
+
+![upload-image]({{ "/assets/img/portfolio/3Dream.png" | relative_url }})
+
 ## Learn More
 For more knowledge about Jekyll posts, visit the [Jekyll Docs: Posts](https://jekyllrb.com/docs/posts/).
 

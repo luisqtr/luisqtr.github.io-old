@@ -198,6 +198,7 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - /categories/
     - /tags/
     - /posts/
+    - /projects/
     - 404.html
     - feed.xml
     - sitemap.xml

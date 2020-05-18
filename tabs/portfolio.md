@@ -3,6 +3,9 @@ layout: page
 title: Projects
 ---
 
+| | |
+
+
 🚧🚧
 
 Work in Progress! 
@@ -10,6 +13,14 @@ Work in Progress!
 🚧🚧
 
 ---
+
+|PARE-VR <a href="{{site.baseurl}}/projects/PARE-VR"><img src="{{site.baseurl}}/assets/img/portfolio/PARE-VR.jpg" width="300px"> </a> | 3Dream <a href="{{site.baseurl}}/projects/PARE-VR"><img src="{{site.baseurl}}/assets/img/portfolio/PARE-VR.jpg" width="300px"> </a> | ArmRehabVR <a href="{{site.baseurl}}/projects/PARE-VR"><img src="{{site.baseurl}}/assets/img/portfolio/PARE-VR.jpg" width="300px"> </a> | 
+
+
+---
+
+| [![project]({{ "/assets/img/portfolio/PARE-VR.jpg" | relative_url }})]({{site.baseurl}}/projects/PARE-VR) |  |
+
 
 LaTeX tests inline $$x = 2 * \sqrt(v)$$
 
