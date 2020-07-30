@@ -1,7 +1,7 @@
 ---
 title: Writing a New Post
-author: Cotes Chung
-date: 2019-08-08 14:10:00 +0800
+author: Luis Quintero
+date: 2020-06-01 14:00:00 +0100
 categories: [Blogging, Tutorial]
 tags: [writing]
 ---

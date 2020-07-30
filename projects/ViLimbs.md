@@ -9,8 +9,5 @@ tags: [dev]
 
 Bio-signal-based interaction with virtual limbs to improve rehabilitation for amputees with phantom limb pain phenomenon. The system uses augmented-reality techniques, neural and muscle activity measure and multisensory feedback.
 
-<img src="{{site.baseurl}}/assets/img/portfolio/VL/VL1.png" width="300px">
 
-<img src="{{site.baseurl}}/assets/img/portfolio/VL/VL2.png" width="300px">
-
-<img src="{{site.baseurl}}/assets/img/portfolio/VL/VL3.png" width="300px">
+| <img src="{{site.baseurl}}/assets/img/portfolio/VL/VL1.png" width="100%"> | <img src="{{site.baseurl}}/assets/img/portfolio/VL/VL2.png" width="100%"> | <img src="{{site.baseurl}}/assets/img/portfolio/VL/VL3.png" width="100%"> |

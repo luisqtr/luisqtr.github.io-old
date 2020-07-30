@@ -1,12 +1,49 @@
 ---
-title: Text and Typography
-author: Cotes Chung
-date: 2019-08-08 11:33:00 +0800
+title: MarkDown Reference
+author: Luis Quintero
+date: 2020-06-01 15:00:00 +0100
 categories: [Blogging, Demo]
-tags: [typography]
+tags: [writing]
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.
+
+## Emojis 😁
+
+---
+
+🚧🚧
+**Work in Progress!**
+🚧🚧
+
+---
+
+## Comments in MD
+
+The most platform-independent syntax is
+
+```
+(empty line)
+[//]: # (This may be the most platform independent comment)
+```
+
+Both conditions are important:
+
+1. Using # (and not <>)
+1. With an empty line before the comment. Empty line after the comment has no impact on the result.
+
+## $$\LaTeX$$
+
+LaTeX tests inline $$x = 2 * \sqrt(v)$$
+
+Block:
+
+$$\begin{align*}
+    {\alpha}_{j,1}^{temp} &= P[\textbf{X}_1=x_1,S_1=j|\lambda]=q_j b_j(x_1), \quad j=1...N \\
+    c_1 &= \sum_{k=1}^{N}  {\alpha}_{k,1}^{temp} \\
+     \hat{\alpha}_{j,1} &=  {\alpha}_{j,1}^{temp}/c_1, \quad j=1...N
+\end{align*}$$
+
 
 ## Titles
 
