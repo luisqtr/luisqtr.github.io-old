@@ -1,10 +1,15 @@
 ---
-title: Developing for Oculus Quest in Unity v2019.1
+title: Developing for Oculus Quest in Unity 2019.4
 author: Luis Quintero
 date: 2020-07-20 15:00:00 +0100
 categories: [Blogging, XR]
 tags: [writing]
 ---
+
+There are many differences in rendering for desktop VR and mobile standalone VR. As shown in the comparison video of a video game ([source](https://www.youtube.com/watch?v=-DLSqfftsnE)):
+
+![VRComparison]({{site.baseurl}}/assets/posts/vr/Onward_Quest_vs_PC_VR_Graphics_Comparison.gif)
+
 
 # ADB Connection with Oculus Quest
 
@@ -60,6 +65,25 @@ The following file can be downloaded from https://github.com/Genymobile/scrcpy
 `adb uninstall <app name.apk>`
 
 
-# Setup in Unity 2019
+# Setup in Unity 2019.4.1
+
+Install the *XR Management* from the *Package Manager*
+
+Documentation for XR Interaction Toolkit [here](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html)
+
+# Performance Considerations for Oculus Quest
+
+## Rendering
+
+(*Source: [OC6](https://youtu.be/PUK2-GzXuso?t=2130)*)
+
+Regarding the use of Universal Rendering Pipeline for Oculus Quest:
+- Bake shadows in the lightmap, it is extremely costly for the tiled renderer of mobile platforms to render and resolve shadows per frame
+- Final Blit Pass. Avoid it.
+
+Oculus Standalone Optimal Usage of the URP:
+- Limit the number of resolves to one per tile.
+- Keep in mind that intermediate render textures in standalone devices is that it breaks Fixed Foveated Rendering, which saves about 20% GPU performance per frame. Any rendering to intermediate texture will not have the FFR savings that we are looking for. E.g. Blit uses intermediate texture, that is why it is not useful.
+
 
 
