@@ -54,7 +54,7 @@ timezone: Europe/Stockholm
 
 google_analytics:
   # Fill with your Google Analytics ID
-  id: '166053620'         # '' to leave empty
+  id: 'UA-166053620-1'         # '' to leave empty
   # The Google Analytics pageviews switch.
 
   pv:
