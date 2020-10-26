@@ -39,7 +39,12 @@
 #   path: tabs
 #   url: tags
 -
-  name: Blog Archives
+  name: Blog
   path: tabs
   url: archives
   icon: "fas fa-archive"
+-
+  name: Media
+  icon: "fas fa-headphones"
+  path: tabs
+  url: media
