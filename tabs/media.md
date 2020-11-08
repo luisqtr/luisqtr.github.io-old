@@ -1,13 +1,10 @@
 ---
 layout: page
+title: Media
 
 ---
 
-# Media 📡
-
-Conferences, Podcasts, Press and other media.
-
----
+📡 Conferences, Podcasts, Press and other media.
 
 ## Combining ML with VR?
 *Date: 2020-10-26*

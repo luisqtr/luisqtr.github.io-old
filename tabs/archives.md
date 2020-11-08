@@ -1,5 +1,5 @@
 ---
-title: Archives
+title: Posts
 
 # The Archives of posts.
 # v2.0

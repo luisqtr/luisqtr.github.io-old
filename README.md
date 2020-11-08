@@ -13,7 +13,7 @@ XR Developer in Unity. Researcher in Machine Learning and Immersive Technologies
 >> bundle exec jekyll serve
 ```
 
-Open a modern brower and visit at <http://localhost:4000>.
+Open a brower and visit at <http://localhost:4000>.
 
 ## License
 

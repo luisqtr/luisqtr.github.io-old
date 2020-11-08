@@ -4,6 +4,8 @@ author: Luis Quintero
 date: 2020-06-01 14:00:00 +0100
 categories: [Blogging, Tutorial]
 tags: [writing]
+toc: true
+published: false
 ---
 
 ## Naming and Path
