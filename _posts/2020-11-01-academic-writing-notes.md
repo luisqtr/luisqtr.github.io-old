@@ -10,7 +10,13 @@ published: true
 
 # Manuscript Writing 📜
 
-Recommended tips from Michael Gaebler:
 
-<https://www.michaelgaebler.com/?page_id=611>
+Similar resources taken from Michael Gaebler: 
+> <https://www.michaelgaebler.com/?page_id=611>
+
+
+Short step-by-step description of Research Paper Writing Process from Western Illinois University: 
+
+> <https://wiu.libguides.com/c.php?g=295539&p=1970520>
+
 
