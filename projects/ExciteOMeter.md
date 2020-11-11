@@ -5,15 +5,19 @@ author: Luis Quintero
 date: 2020-10-26 10:00:00 +0100
 categories: [Virtual Reality, Physiological Signals]
 tags: [unity]
-published: false
+published: true
 ---
 
 
 A Software Framework to Integrate Physiological Data in Extended Reality Applications.
 
-**Project Website: [http://exciteometer.eu/](http://exciteometer.eu/)** 
+<img src="{{site.baseurl}}/assets/img/portfolio/EoM.png" width="25%">
 
-<img src="{{site.baseurl}}/assets/img/portfolio/EoM/logo/ExciteOmeter_Logo.png" width="10%">
+📃**Paper:** TBA
+
+⌨**Repository:** <[http://luis](https://github.com/luiseduve/exciteometer)>
+
+🖥**Project Website:** <http://exciteometer.eu/>
 
 <img src="{{site.baseurl}}/assets/img/portfolio/EoM/architecture.jpg" width="70%">
 
