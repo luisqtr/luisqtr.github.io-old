@@ -4,18 +4,18 @@ title: CV
 
 ---
 
-📄 [Download CV (PDF)]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %})
+📄 [Download CV (PDF)]({{ site.baseurl }}{% link /assets/files/LuisQuintero_CV.pdf %})
 
 ---
 
 # Work Experience
 
-## Researcher
+## Researcher - PhD Scholar
 (June 2019 - *Currently*) | **Stockholm University**
 
-Research in the areas of immersive technologies, machine learning and human-computer interaction.
+Research area is the intersection between machine learning and immersive technologies. The problem of interest is how to use data from the interaction with systems for virtual reality training to identify the skill level of a user and adapt the task in such a way that improves their learning processes.
 
-## Technical Assistant
+## Virtual Reality Developer
 (February 2017 - August 2017) | **Madeira Interactive Technologies Institute, Portugal**
 
 Design, and development of a multimodal system for mental rehabilitation using HTC-Vive and wearable sensors. Using C#, Unity, and interfaces like Kinect and Zephyr. Side projects: 3D-calibration tool for low-cost CAVE systems and visual scripting toolbox for physiologically adaptive systems.
@@ -37,7 +37,7 @@ Lecturer for Technical and Bachelor degree courses: "Microprocessors architectur
 ## PhD in Computer and Systems Sciences
 (September 2019 - *Currently*) | **Stockholm University, Sweden**
 
-Research in the multivariate analysis of kinematic time series with data science for immersive technologies.
+Research area is the intersection between machine learning and immersive technologies.
 
 ## MSc. Health Informatics
 (September 2017 - May 2019) | **Karolinska Institutet, Sweden**
