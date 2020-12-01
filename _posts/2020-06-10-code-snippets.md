@@ -391,8 +391,8 @@ More info about security keys [here](https://www.digitalocean.com/community/tuto
 To create either ED25519 or RSA:
 
 ```bash
-ssh-keygen -t ed25519 -C ”email@example.com”
-ssh-keygen -t rsa -b 4096 -C ”email@example.com”
+ssh-keygen -t ed25519 -C "email@example.com"
+ssh-keygen -t rsa -b 4096 -C "email@example.com"
 ```
 
 Flag `-C` adds a comment and helps to identify which is which in case you want to know which is which
@@ -411,17 +411,21 @@ To add the SSH key to GitLab, copy the SSH to the keyboard using:
 
 `xclip -sel clip < ~/.ssh/id_ed25519.pub`
 
-*WINDOWS*
+*WINDOWS (in powershell)*
 
 `cat ~/.ssh/id_ed25519.pub | clip`
 
-Paste it on the GitLab repo in the settings for public keys.
+Paste it on the GitLab/Gitea/Github repo in the settings for public keys.
 
 To test if everything is set up correctly:
 
 `ssh -T git@<gitlab.com> # Change for specific GitLab server`
 
 Finally, clone the repository with git as usual.
+
+**In case of error connecting through SSH**
+
+Execute the `ssh-agent` in the git bash console via `eval "$(ssh-agent -s)"` and add the generated key through `ssh-add [path_to_key]`
 
 
 ## Git-SVN
