@@ -98,6 +98,7 @@ Use carefully, but helpful to push all local  branches to the repo:
 `git push --all `
 
 ### Create branches
+
 Common workflow is to create branches instead of working on the MASTER branch
 
 ``` bash
@@ -188,6 +189,25 @@ Stash is shared between branches, then stash can be used to move changes that we
 git diff 		# Traditional diff
 git difftool	# Opens a window with changes
 ```
+
+### Git submodules
+
+Allow to bring other git repositories (*submodules*) within a main git project (*superproject*)
+
+`git submodule add <GIT URL> [folder name]`
+
+When cloning a repository that has submodules, these submodule folders are empty and need to be checkout:
+
+`git submodule update --init`
+
+Summary of the submodules from the superproject
+
+`git submodule status`
+
+**To keep in mind:**
+- Once your `cd` inside a submodule, all git commands are with respect to the submodule and not the superproject.
+- If there is a change in the submodule from the superproject, first you need to `commit` the submodule repo and **then** commit the superproject with a message like "Update reference to submodule". The superproject just keeps a reference to the commit in the submodule that needs to be `checkckout`, does not track all the changes like it would do to the other folders.
+
 
 ---
 ---
