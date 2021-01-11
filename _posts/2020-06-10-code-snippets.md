@@ -200,6 +200,10 @@ When cloning a repository that has submodules, these submodule folders are empty
 
 `git submodule update --init`
 
+To update all the submodules to their respective master branch:
+
+`git submodule update --remote`
+
 Summary of the submodules from the superproject
 
 `git submodule status`
