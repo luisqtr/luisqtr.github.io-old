@@ -23,3 +23,35 @@ John E. Muñoz, Alan T. Pope, **Luis E. Velez**. Integrating Biocybernetic Adapt
 ## 2018
 
 Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S., Cipresso, P., & Gaggioli, A. Towards Emotionally-Adaptive Virtual Reality for Mental Health Applications. *IEEE Journal of Biomedical and Health Informatics*. **Journal (Open Access) 📖**<https://doi.org/10.1109/JBHI.2018.2878846>
+
+
+---
+
+# Teaching
+
+## 2021
+
+- *Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
+- *Lab: Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
+- *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
+
+## 2020
+
+- *Lab: Time Series Dimensionality Reduction*, Teaching Assistant, Nov-Dec, 80h. Part of the course *Research Topics in Data Science*, **Stockholm University, Sweden**.
+- *Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 40h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
+- *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 40h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
+
+## 2016
+
+- *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University**, Colombia.
+- *Application development with Unity*, Course Leader, Feb-Jun. For students of vocational training in Visual Design, **Unitécnica Manizales**, Colombia.
+- *Introduction to databases*, Course Leader, Feb-Jun. For students of vocational training in Computer Science. **Unitécnica Manizales** Colombia.
+
+
+<!-- --- 
+
+# Thesis Supervision
+
+## 2021
+
+- *Thesis title*, MSc., Student, Year, Stockhom University, Sweden. -->

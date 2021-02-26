@@ -10,7 +10,7 @@ title: CV
 
 # Work Experience
 
-## Researcher - PhD Scholar
+## Researcher - Doctoral Researcher
 (June 2019 - *Currently*) | **Stockholm University**
 
 Research area is the intersection between machine learning and immersive technologies. The problem of interest is how to use data from the interaction with systems for virtual reality training to identify the skill level of a user and adapt the task in such a way that improves their learning processes.
@@ -24,11 +24,6 @@ Design, and development of a multimodal system for mental rehabilitation using H
 (April 2015 - January 2017) | **Center for Bioinformatics and Computational Biology (BIOS), Colombia**
 
 Support in the formulation, planning and development of applied-research projects for industry, applying computer vision and signal processing algorithms. Using several human-interface devices and libraries such as VRPN, OpenCV and Qt.
-
-## Lecturer 
-(February 2016 - June 2016) | **Caldas University**
-
-Lecturer for Technical and Bachelor degree courses: "Microprocessors architecture", "Application development with Unity", "Introduction to Webpage development" and "Introduction to databases".
 
 ---
 
