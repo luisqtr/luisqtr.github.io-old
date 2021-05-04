@@ -2,8 +2,8 @@
 title: Developing for Oculus Quest
 author: Luis Quintero
 date: 2020-07-20 15:00:00 +0100
-categories: [Blogging, XR]
-tags: [writing]
+categories: [Blogging, VR]
+tags: [VR]
 ---
 
 There are many differences in rendering for desktop VR and mobile standalone VR. As shown in the comparison video of a video game ([source](https://www.youtube.com/watch?v=-DLSqfftsnE)):

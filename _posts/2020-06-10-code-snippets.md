@@ -2,8 +2,8 @@
 title: Personal Code Snippets
 author: Luis Quintero
 date: 2020-06-10 20:00:00 +0100
-categories: [Blogging, Tutorial]
-tags: [dev]
+categories: [Notes]
+tags: [Dev]
 toc: true
 published: true
 ---
