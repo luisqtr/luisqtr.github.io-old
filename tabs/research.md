@@ -4,6 +4,10 @@ title: Research Publications
 
 ---
 
+## 2021
+
+Muñoz JE, **Quintero L**, Stephens CL and Pope AT. Taxonomy of Physiologically Adaptive Systems and Design Framework. *International Conference on Human-Computer Interaction (HCII 2021)*, Adaptive Instructional Systems, Lecture Notes in Computer Science, pp 559-576. <https://doi.org/10.1007/978-3-030-77857-6_40>
+
 ## 2020
 
 **Luis Quintero**. Research Methodologies when Combining Virtual Reality with Machine Learning: A Brief Scoping Review. *In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA’20)*, Corfu, Greece. ACM, 4 pages. <https://doi.org/10.1145/3389189.3394093>
