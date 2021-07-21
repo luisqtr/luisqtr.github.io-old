@@ -4,7 +4,7 @@
 
 **Luis Quintero**
 
-XR Developer in Unity. Researcher in Machine Learning and Immersive Technologies, exploring how to incorporate physiological and movement signals into virtual environments to conduct real-time user analysis that enhance XR solutions in education, healthcare and manufacture.
+Unity Developer of VR apps. Researcher in Machine Learning and Immersive Technologies, exploring how to incorporate physiological and movement signals into virtual environments to conduct real-time user analysis that enhance XR solutions in education, healthcare and manufacture.
 
 ## Execute
 
