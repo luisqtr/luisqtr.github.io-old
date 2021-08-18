@@ -6,6 +6,8 @@ title: Research Publications
 
 ## 2021
 
+**Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bary, Italy. **To be published**
+
 Muñoz JE, **Quintero L**, Stephens CL and Pope AT. Taxonomy of Physiologically Adaptive Systems and Design Framework. *International Conference on Human-Computer Interaction (HCII 2021)*, Adaptive Instructional Systems, Lecture Notes in Computer Science, pp 559-576. <https://doi.org/10.1007/978-3-030-77857-6_40>
 
 ## 2020
