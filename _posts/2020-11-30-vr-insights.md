@@ -2,13 +2,8 @@
 title: Insights about XR technology
 author: Luis Quintero
 date: 2020-06-01 14:00:00 +0100
-<<<<<<< HEAD
-categories: [Blogging]
-tags: [VR]
-=======
 categories: [Blogging, XR]
 tags: [writing]
->>>>>>> 02139fde1859b18929f75b01bfe295b3f108fad9
 toc: true
 published: true
 ---
