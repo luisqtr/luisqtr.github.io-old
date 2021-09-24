@@ -6,6 +6,11 @@ title: Media
 
 📡 Conferences, Podcasts, Press and other media.
 
+## Panelist
+*Date: 2021-09-24*
+
+Panelist of the discussion "The Use of Digital Ggames and AI for Health and Wellbeing", in the [EUROSIS GAME-ON Conference 2021](https://eurosis.org/conf/gameon/2021/index.html).
+
 ## Combining ML with VR?
 *Date: 2020-10-26*
 
