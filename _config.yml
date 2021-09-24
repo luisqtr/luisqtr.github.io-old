@@ -10,7 +10,7 @@
 title: Luis Quintero
 
 # it will display as the sub-title
-tagline: Electronics Engineer. <br> Unity Developer of VR apps. <br> Researcher in Machine Learning and Virtual Reality (VR/AR/XR).
+tagline: Researcher in Machine Learning and Virtual Reality. <br> User Modelling from Time-Series Data. <br> VR Unity Developer. 
 
 description: >-                        # used by seo meta and the atom feed
   Luis Quintero - Personal Website. 
@@ -26,7 +26,7 @@ github:
   username: luiseduve             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: luisqntr  # change to your twitter username
 
 linkedin:
   username: levelezq            # change to your twitter username
@@ -36,9 +36,9 @@ social:
   email: luis-eduardo@dsv.su.se             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://twitter.com/username      # change to your twitter homepage
     - https://github.com/luiseduve       # change to your github homepage
     # Uncomment below to add more social links
+    - https://twitter.com/luisqntr      # change to your twitter homepage
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/levelezq
 

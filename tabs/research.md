@@ -1,8 +1,11 @@
 ---
-layout: page
-title: Research Publications
+layout: post
+title: Research
+toc: true
 
 ---
+
+# Publications
 
 ## 2021
 
@@ -32,7 +35,6 @@ John E. Muñoz, Alan T. Pope, **Luis E. Velez**. Integrating Biocybernetic Adapt
 
 Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S., Cipresso, P., & Gaggioli, A. Towards Emotionally-Adaptive Virtual Reality for Mental Health Applications. *IEEE Journal of Biomedical and Health Informatics*. **Journal (Open Access) 📖**<https://doi.org/10.1109/JBHI.2018.2878846>
 
-
 ---
 
 # Teaching
@@ -56,10 +58,25 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - *Introduction to databases*, Course Leader, Feb-Jun. For students of vocational training in Computer Science. **Unitécnica Manizales** Colombia.
 
 
-<!-- --- 
+--- 
 
 # Thesis Supervision
 
+- *The trade-off between performance and compression rate when applying knowledge distillation*, Mawada Hamad, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden, (2021)
+- *Knowledge distillation for building accurate plant classification models for mobile devices*, Samiiha Nalwooga, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden, (2021)
+- *Outlier Detection in Stock Market Prediction through Anomaly Detection*, Alborz Alipour, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden, (2021)
+- *Towards detecting arousal level from heart rate information in virtual reality 360-degree videos*, Dana Kokey, MSc. Health Informatics, Karolinska Institutet, Sweden, (2021).
+
+<!-- 
 ## 2021
 
 - *Thesis title*, MSc., Student, Year, Stockhom University, Sweden. -->
+
+---
+
+# Other research activities
+
+- Program Committee member in IEEE International Conference on Artificial Intelligence and Virtual Reality <http://www.ieee-aivr.org/>
+- Reviewer in IEEE VR (2021)
+- Reviewer in IEEE AIVR (2020, 2021)
+- Reviewer in Granular Computing Journal

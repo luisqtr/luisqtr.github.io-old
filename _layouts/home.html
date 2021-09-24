@@ -4,11 +4,24 @@ layout: page
 ---
 
 <h1 class="dynamic-title">
-  Personal Website - Bio
+  Personal Website - Luis Quintero
 </h1>
 
+<p> 📌 Stockholm, Sweden | 🌎 Manizales, Colombia</p>
+
 <p>
-  <i> PhD Scholar @
+  Researcher in Machine Learning and Immersive Technologies, exploring 
+  user modelling in virtual reality (VR) environments through real-time 
+  analysis of physiological and motion time-series in applications for 
+  healthcare, training and manufacture.
+</p>
+
+
+<h2 class="dynamic-title">
+  Short bio:
+</h2>
+<p>
+  <i> Currently - PhD Scholar @
     <a target="_blank"
       href="https://dsv.su.se/en/research/research-areas/datascience/description">
       Data Science Group
@@ -16,22 +29,26 @@ layout: page
     , <a href="https://www.su.se/profiles/luva3178">Stockholm University</a>.
   </i>
   <br>
-  <i>MSc. Health Informatics, Karolinska Institutet, Sweden</i>
+  <i>(2019) - MSc. Health Informatics, Karolinska Institutet, Sweden</i>
   <br>
-  <i>BSc. Electronics Engineering, UNAL, Colombia</i>
+  <i>(2015) - BSc. Electronics Engineering, UNAL, Colombia</i>
   <br>
 </p>
 
-<p>
-  Unity Developer of Virtual Reality apps. <br>
-  Researcher in Machine Learning and Immersive Technologies, exploring 
-  how to incorporate physiological and movement signals into virtual environments to conduct 
-  real-time user analysis that enhance XR solutions in education, healthcare and manufacture.
-</p>
-
-<p> 📌 Stockholm, Sweden | 🌎 Manizales, Colombia</p>
+<h2 class="dynamic-title">
+  Contact:
+</h2>
 
 <ul class="list-inline list-social-icons mb-12">
+  <li class="list-inline-item">
+    {% assign email = site.social.email | split: '@' %}
+    <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
+      <span class="fa-stack fa-2x">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+</li>
   <li class="list-inline-item">
     <a href="https://github.com/luiseduve">
       <span class="fa-stack fa-2x">
@@ -49,18 +66,18 @@ layout: page
     </a>
   </li>
   <li class="list-inline-item">
-    <a href="https://www.researchgate.net/profile/Luis_Quintero17">
-      <span class="fa-stack fa-2x">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  <li class="list-inline-item">
     <a href="https://scholar.google.com/citations?view_op=list_works&hl=en&authuser=1&user=RYg_PGQAAAAJ">
       <span class="fa-stack fa-2x">
         <i class="fa fa-circle fa-stack-2x"></i>
         <i class="fab fa-google fa-stack-1x fa-inverse"></i>
+      </span>
+    </a>
+  </li>
+  <li class="list-inline-item">
+    <a href="https://www.researchgate.net/profile/Luis_Quintero17">
+      <span class="fa-stack fa-2x">
+        <i class="fa fa-circle fa-stack-2x"></i>
+        <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
       </span>
     </a>
   </li>
@@ -78,9 +95,8 @@ layout: page
 <hr>
 
 <h1 class="dynamic-title">
-  📘 Blog Posts
+  Personal Blog Notes 📘
 </h1>
-
 
 <div id="post-list">
   {% for post in paginator.posts %}

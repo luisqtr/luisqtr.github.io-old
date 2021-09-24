@@ -8,18 +8,17 @@ tags: [unity]
 published: true
 ---
 
+<!-- <img src="{{site.baseurl}}/assets/img/portfolio/EoM.png" width="10%"> -->
 
 A Software Framework to Integrate Physiological Data in Extended Reality Applications.
 
-<img src="{{site.baseurl}}/assets/img/portfolio/EoM.png" width="25%">
+📃**Paper:** Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality, *ISMAR*. *\[in press\]*
 
-📃**Paper:** TBA
-
-⌨**Repository:** <[http://luis](https://github.com/luiseduve/exciteometer)>
+⌨**Repository:** <https://github.com/luiseduve/exciteometer>
 
 🖥**Project Website:** <http://exciteometer.eu/>
 
-<img src="{{site.baseurl}}/assets/img/portfolio/EoM/architecture.jpg" width="70%">
+<img src="{{site.baseurl}}/assets/img/portfolio/EoM/architecture.jpg" width="80%">
 
 ## Functionalities
 
