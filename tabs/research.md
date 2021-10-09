@@ -7,11 +7,13 @@ toc: true
 
 # Publications
 
+Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ)
+
 ## 2021
 
 **Quintero L**, Papapetrou P,  Hollmén J, Fors U. Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods. *4th International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, Taichung, Taiwan (virtual). 2021. *\[in press\]*
 
-**Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bary, Italy (virtual). 2021. *\[in press\]*
+**Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bari, Italy (virtual). 2021. <https://doi.org/10.1109/ISMAR52148.2021.00052>
 
 Muñoz JE, **Quintero L**, Stephens CL and Pope AT. Taxonomy of Physiologically Adaptive Systems and Design Framework. *International Conference on Human-Computer Interaction (HCII 2021)*, Adaptive Instructional Systems, Lecture Notes in Computer Science, pp 559-576. 2021. <https://doi.org/10.1007/978-3-030-77857-6_40>
 
@@ -23,11 +25,11 @@ Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model 
 
 ## 2019
 
-**Luis Quintero**, John Muñoz, Panagiotis Papapetrou. Open-Source Physiological Computing Framework using Heart Rate Variability in Mobile Virtual Reality Applications. *2nd International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, San Diego, CA, USA. 2019. <https://doi.org/10.1109/AIVR46125.2019.00027>
+**Quintero L**, Muñoz JE, Papapetrou P. Open-Source Physiological Computing Framework using Heart Rate Variability in Mobile Virtual Reality Applications. *2nd International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, San Diego, CA, USA. 2019. <https://doi.org/10.1109/AIVR46125.2019.00027>
 
-**Luis Quintero**, Panagiotis Papapetrou, John Muñoz, Uno Fors. Implementation of Mobile-based Real-time Heart Rate Variability Detection for Personalized Healthcare. *Workshop TMDM in IEEE International Conference on Data Mining (ICDMW)*, Beijing, China. 2019. <https://doi.org/10.1109/ICDMW.2019.00123>
+**Quintero L**, Papapetrou P, Muñoz JE, Fors U. Implementation of Mobile-based Real-time Heart Rate Variability Detection for Personalized Healthcare. *Workshop TMDM in IEEE International Conference on Data Mining (ICDMW)*, Beijing, China. 2019. <https://doi.org/10.1109/ICDMW.2019.00123>
 
-John E. Muñoz, Alan T. Pope, **Luis E. Velez**. Integrating Biocybernetic Adaptation in Virtual Reality Training Concentration and Calmness in Target Shooting. *International Conference on Physiological Computing Systems (PhyCS)*. 2019. <https://doi.org/10.1007/978-3-030-27950-9_12>
+Muñoz JE, Pope AT, **Quintero L.V.**. Integrating Biocybernetic Adaptation in Virtual Reality Training Concentration and Calmness in Target Shooting. *International Conference on Physiological Computing Systems (PhyCS)*. 2019. <https://doi.org/10.1007/978-3-030-27950-9_12>
 
 **Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics. **Master's Thesis.** [📕 PDF]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %})
 

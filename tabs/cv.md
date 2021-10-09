@@ -13,7 +13,8 @@ title: CV
 ## Researcher - Doctoral Researcher
 (June 2019 - *Currently*) | **Stockholm University**
 
-Research area is the intersection between machine learning and immersive technologies. The problem of interest is how to use data from the interaction with systems for virtual reality training to identify the skill level of a user and adapt the task in such a way that improves their learning processes.
+Research area in the intersection of machine learning and immersive technologies.
+The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.<br>
 
 ## Virtual Reality Developer
 (February 2017 - August 2017) | **Madeira Interactive Technologies Institute, Portugal**
