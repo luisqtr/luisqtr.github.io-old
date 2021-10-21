@@ -21,6 +21,7 @@ url: 'https://luiseduve.github.io'
 author: Luis Quintero                  # change to your full name
 
 avatar: /assets/img/profile.jpg   # support internet resources
+display_avatar: false              # true: to show | false: to hide
 
 github:
   username: luiseduve             # change to your github username
