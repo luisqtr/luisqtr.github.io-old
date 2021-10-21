@@ -31,7 +31,7 @@ Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model 
 
 Muñoz JE, Pope AT, **Quintero L.V.**. Integrating Biocybernetic Adaptation in Virtual Reality Training Concentration and Calmness in Target Shooting. *International Conference on Physiological Computing Systems (PhyCS)*. 2019. <https://doi.org/10.1007/978-3-030-27950-9_12>
 
-**Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics. **Master's Thesis.** [📕 PDF]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %})
+\[Master's Thesis\]: **Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics. [PDF]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %}) 
 
 ## 2018
 
