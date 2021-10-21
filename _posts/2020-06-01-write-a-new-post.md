@@ -1,11 +1,12 @@
 ---
 title: Writing a New Post
 author: Luis Quintero
-date: 2020-06-01 14:00:00 +0100
-categories: [Blogging, Tutorial]
+date: 2020-05-01 14:00:00 +0100
+categories: [Blogging]
 tags: [writing]
 toc: true
 published: false
+comments: false
 ---
 
 ## Naming and Path

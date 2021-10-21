@@ -16,10 +16,15 @@ title: CV
 Research area in the intersection of machine learning and immersive technologies.
 The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.<br>
 
-## Virtual Reality Developer
+## Consultancy on Virtual Reality + Unity Developer
+(September 2017 - *Present*) | **Multiple Projects**
+
+Design and development of VR-based solutions. Including firearms training simulator (USA), architecture visualization (Colombia), and healthcare (Sweden). See details in [Portfolio]({{ site.baseurl }}/tabs/portfolio/).
+
+## System Developer
 (February 2017 - August 2017) | **Madeira Interactive Technologies Institute, Portugal**
 
-Design, and development of a multimodal system for mental rehabilitation using HTC-Vive and wearable sensors. Using C#, Unity, and interfaces like Kinect and Zephyr. Side projects: 3D-calibration tool for low-cost CAVE systems and visual scripting toolbox for physiologically adaptive systems.
+Design, and development of a multimodal systems for mental health interventions. Using devices like HTC-Vive, KinectV2, and wearable sensor Zephyr. Programming Windows apps using C#, and Unity. *Side projects:* 3D-calibration tool for low-cost CAVE systems and visual scripting toolbox for physiologically adaptive systems.
 
 ## Bioengineering Professional
 (April 2015 - January 2017) | **Center for Bioinformatics and Computational Biology (BIOS), Colombia**

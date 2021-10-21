@@ -2,7 +2,7 @@
 layout: post
 title: Excite-O-Meter
 author: Luis Quintero
-date: 2020-10-26 10:00:00 +0100
+date: 2021-10-10 10:00:00 +0100
 categories: [Virtual Reality, Physiological Signals]
 tags: [unity]
 published: true
@@ -12,7 +12,7 @@ published: true
 
 A Software Framework to Integrate Physiological Data in Extended Reality Applications.
 
-📃**Paper:** Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality, *ISMAR*. *\[in press\]*
+📃**Paper:** [Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality, *ISMAR21*.](https://doi.org/10.1109/ISMAR52148.2021.00052)
 
 ⌨**Repository:** <https://github.com/luiseduve/exciteometer>
 
