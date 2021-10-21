@@ -3,102 +3,136 @@ layout: page
 # The Home page layout
 ---
 
+<div class="d-flex justify-content-center">
 <h1 class="dynamic-title">
-  Personal Website - Luis Quintero
+  {{site.title}}
 </h1>
-
-
-<p>
-  Researcher in behavioral user modeling with machine learning (ML) and adaptive virtual reality (VR) enviroments. <br>
-
-  Interested in applications combining ML and VR in healthcare, professional training, and education.
-
-  Most of my work refers to real-time analysis of physiological signals, motion trajectories,
-  and gameplay interactions to classify subjective user characteristics like skill level,
-  emotional states, or mental workload. <br>
-</p>
-
-<h2 class="dynamic-title">
-  Short CV:
-</h2>
-<p>
-  <i> (Currently) - Doctoral Researcher @
-    <a target="_blank"
-      href="https://dsv.su.se/en/research/research-areas/datascience/description">
-      Data Science Group
-    </a>
-    , <a href="https://www.su.se/profiles/luva3178">Stockholm University</a>.
-  </i>
-  <br>
-  <i>(2019) - MSc. Health Informatics, Karolinska Institutet, Sweden</i>
-  <br>
-  <i>(2015) - BSc. Electronics Engineering, UNAL, Colombia</i>
-  <br>
-</p>
-
-<p> 📌 Stockholm, Sweden | 🌎 Colombia</p>
-
-<h2 class="dynamic-title">
-  Contact:
-</h2>
-
-<ul class="list-inline list-social-icons mb-12">
-  <li class="list-inline-item">
-    {% assign email = site.social.email | split: '@' %}
-    <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
-      <span class="fa-stack fa-2x">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-</li>
-  <li class="list-inline-item">
-    <a href="https://github.com/luiseduve">
-      <span class="fa-stack fa-2x">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fab fa-github fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="https://www.linkedin.com/in/levelezq">
-      <span class="fa-stack fa-2x">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fab fa-linkedin-in fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="https://scholar.google.com/citations?user=RYg_PGQAAAAJ">
-      <span class="fa-stack fa-2x">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fab fa-google fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="https://www.researchgate.net/profile/Luis_Quintero17">
-      <span class="fa-stack fa-2x">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-  <li class="list-inline-item">
-    <a href="https://orcid.org/0000-0002-6047-2793">
-      <span class="fa-stack fa-2x">
-        <i class="fa fa-circle fa-stack-2x"></i>
-        <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
-      </span>
-    </a>
-  </li>
-</ul>
 </div>
 
 <hr>
 
-<h1 class="dynamic-title">
-  Personal Blog Notes 📘
+<div class="row justify-content-center">
+  <div class="col-4 col-lg-3 col-xl-3">
+    <!-- <div id="avatar" class="d-flex align-content-center"> -->
+      <img style="width:100%; border-radius: 50%" src="{{site.baseurl}}/assets/img/profile.jpg">
+    <!-- </div> -->
+  </div> <!-- #page -->
+  <div class="col-10 col-lg-7 col-xl-7">
+    <p align="justify">
+      Doctoral researcher exploring behavioral user modeling with machine learning <b>(ML)</b> and adaptive virtual reality <b>(VR)</b> enviroments
+      in the <i><a target="_blank" href="https://datascience.dsv.su.se/">Data Science Group</a>, <a target="_blank" href="https://www.su.se/profiles/luva3178">Stockholm University</a>.</i>
+      <br><br>
+      Interested in applications combining ML and VR for healthcare, professional training, and education.
+      
+      Most of my work refers to real-time analysis of physiological signals, motion trajectories,
+      and gameplay interactions to classify subjective user characteristics like skill level,
+      emotional states, or mental workload. <br>
+    </p>
+  </div> <!-- #page -->
+</div><!-- .col-12 -->
+
+<h2 class="dynamic-title d-flex justify-content-center">
+  Contact
+</h2>
+
+<div class="d-flex justify-content-center">
+  <ul class="list-inline list-social-icons mb-12">
+    <li class="list-inline-item">
+      {% assign email = site.social.email | split: '@' %}
+      <a href="javascript:window.open('mailto:' + ['{{ email[0] }}','{{ email[1] }}'].join('@'))">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+  </li>
+    <li class="list-inline-item">
+      <a href="https://github.com/luiseduve">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-github fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a href="https://www.linkedin.com/in/levelezq">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-linkedin-in fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a href="https://scholar.google.com/citations?user=RYg_PGQAAAAJ">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-google fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a href="https://www.researchgate.net/profile/Luis_Quintero17">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-researchgate fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+    <li class="list-inline-item">
+      <a href="https://orcid.org/0000-0002-6047-2793">
+        <span class="fa-stack fa-2x">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fab fa-orcid fa-stack-1x fa-inverse"></i>
+        </span>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<br>
+<div class="d-flex justify-content-center">
+  🌎 From Manizales, Colombia | 📌 Currently in Stockholm, Sweden
+</div>
+
+<!-- 
+<h2 class="dynamic-title">
+  CV:
+</h2>
+<a href="{{site.baseurl}}/tab/cv/">See full CV 🧾</a>
+
+<div class="row justify-content-center">
+  <div class="col-2 text-center">
+    (Currently)
+  </div>
+  <div class="col-8">
+    
+  </div>
+</div>
+
+<div class="row justify-content-center">
+  <div class="col-2 text-center">
+    (2019)
+  </div>
+  <div class="col-8">
+    MSc. Health Informatics, Karolinska Institutet, Sweden.
+  </div>
+</div>
+
+<div class="row justify-content-center">
+  <div class="col-2 text-center">
+    (2015)
+  </div>
+  <div class="col-8">
+    BSc. Electronics Engineering, UNAL, Colombia.
+  </div>
+</div> -->
+
+
+<hr>
+<br>
+
+<h1 class="d-flex justify-content-center">
+  Personal Blog Notes
 </h1>
 
 <div id="post-list">

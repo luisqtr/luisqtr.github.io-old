@@ -3,6 +3,7 @@ title: Developing for Oculus Quest
 author: Luis Quintero
 date: 2020-07-20 15:00:00 +0100
 categories: [Blogging, VR]
+# image: /assets/img/portfolio/PortalSense.jpg
 tags: [VR]
 ---
 

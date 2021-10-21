@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+toc: true
 ---
 
 ## Latest Projects

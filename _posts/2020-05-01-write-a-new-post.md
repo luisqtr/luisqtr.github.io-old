@@ -2,8 +2,9 @@
 title: Writing a New Post
 author: Luis Quintero
 date: 2020-05-01 14:00:00 +0100
-categories: [Blogging]
+categories: [Blogging, VR]
 tags: [writing]
+image: /assets/img/portfolio/PortalSense.jpg
 toc: true
 published: false
 comments: false

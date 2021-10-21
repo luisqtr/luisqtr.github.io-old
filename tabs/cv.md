@@ -1,25 +1,25 @@
 ---
 layout: page
 title: CV
-
+toc: true
 ---
 
 📄 [Download CV (PDF)]({{ site.baseurl }}{% link /assets/files/LuisQuintero_CV.pdf %})
 
 ---
 
-# Work Experience
+# 💻 Work Experience
 
 ## Researcher - Doctoral Researcher
-(June 2019 - *Currently*) | **Stockholm University**
+(June 2019 - *Present*) | **Stockholm University**
 
 Research area in the intersection of machine learning and immersive technologies.
 The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.<br>
 
-## Consultancy on Virtual Reality + Unity Developer
+## Consultant on Virtual Reality Applications + Unity Developer
 (September 2017 - *Present*) | **Multiple Projects**
 
-Design and development of VR-based solutions. Including firearms training simulator (USA), architecture visualization (Colombia), and healthcare (Sweden). See details in [Portfolio]({{ site.baseurl }}/tabs/portfolio/).
+Design and development of VR-based solutions. Including firearms training simulator (USA), architecture visualization (Colombia), and healthcare (Sweden). *Check the section [Projects]({{ site.baseurl }}/tabs/projects/) for more details*.
 
 ## System Developer
 (February 2017 - August 2017) | **Madeira Interactive Technologies Institute, Portugal**
@@ -33,7 +33,7 @@ Support in the formulation, planning and development of applied-research project
 
 ---
 
-# Education
+# 🎓 Education
 
 ## PhD in Computer and Systems Sciences
 (September 2019 - *Currently*) | **Stockholm University, Sweden**
@@ -48,13 +48,12 @@ Design, implementation and management of projects related to digital health tech
 ## BSc. Electronics Engineering
 (February 2010 - August 2015) | **National University, Colombia**
 
-Courses on signal processing, computer vision, control theory, telecommunication systems.
-
+Courses on signal processing, computer vision, control theory, telecommunication systems. <br>
 GPA: 4.4/5.0 - Best 10% among graduated students.
 
 ---
 
-# Awards & MOOCs
+# 🏆 Awards & Highlights
 
 - Awarded Grants for studies:
     - Master's Degree (2017), awarded by [Swedish Institute](https://eng.si.se/scholarship/the-swedish-institute-study-scholarships/)

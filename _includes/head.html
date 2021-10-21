@@ -84,6 +84,11 @@
       <link rel="preload" href="{{ site.baseurl }}/assets/css/page.css" as="style">
       <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/page.css">
 
+      {% if site.toc and page.toc %}
+        <link rel="preload" as="style" href="{{ site.baseurl }}/assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.css">
+        <link rel="stylesheet" href="{{ site.baseurl }}/assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.css" />
+      {% endif %}
+      
     {% endif %}
 
   {% elsif page.layout == 'category' or page.layout == 'tag' %}
@@ -136,11 +141,19 @@
     {% endif %}
   {% endif %}
 
-  {% if site.toc and page.toc and page.layout == 'post' %}
+  {% if page.layout == 'post' and site.toc and page.toc%}
     <link rel="preload" as="script" href="{{ site.baseurl }}/assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.js">
     <script src="{{ site.baseurl }}/assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.js" async></script>
     <script src="{{ site.baseurl }}/assets/js/dist/toc.min.js" async></script>
   {% endif %}
+
+  <!-- EDITED LQ -->
+  {% if page.layout == 'page' and site.toc and page.toc%}
+    <link rel="preload" as="script" href="{{ site.baseurl }}/assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.js">
+    <script src="{{ site.baseurl }}/assets/lib/bootstrap-toc-1.0.1/bootstrap-toc.min.js" async></script>
+    <script src="{{ site.baseurl }}/assets/js/dist/toc.min.js" async></script>
+  {% endif %}
+  <!-- END EDIT -->
 
   <script src="{{ site.baseurl }}/assets/js/dist/tooltip-loader.min.js" async></script>
 

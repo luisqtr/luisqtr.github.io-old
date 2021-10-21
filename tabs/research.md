@@ -1,11 +1,10 @@
 ---
-layout: post
+layout: page
 title: Research
 toc: true
-
 ---
 
-# Publications
+# 📑 Publications
 
 Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ)
 
@@ -19,7 +18,8 @@ Muñoz JE, **Quintero L**, Stephens CL and Pope AT. Taxonomy of Physiologically 
 
 ## 2020
 
-**Quintero L**. Research Methodologies when Combining Virtual Reality with Machine Learning: A Brief Scoping Review. *In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA’20)*, Corfu, Greece. ACM, 4 pages. <https://doi.org/10.1145/3389189.3394093>
+**Quintero L**. Understanding research methodologies when combining virtual reality technology with machine learning techniques
+. *In The 13th PErvasive Technologies Related to Assistive Environments Conference (PETRA’20)*, Corfu, Greece. ACM, 4 pages. <https://doi.org/10.1145/3389189.3394093>
 
 Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model of Firearms Training in Police Officers: A Virtual Reality Experiment for Biocybernetic Adaptation. *Frontiers in Psychology*. 11:683. 2020. **Journal (Open Access) 📖**<https://doi.org/10.3389/fpsyg.2020.00683>
 
@@ -39,7 +39,7 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ---
 
-# Teaching
+# 📝 Teaching
 
 ## 2021
 
@@ -62,7 +62,7 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 --- 
 
-# Thesis Supervision
+# 📜 Thesis Supervision
 
 - *The trade-off between performance and compression rate when applying knowledge distillation*, Mawada Hamad, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden, (2021)
 - *Knowledge distillation for building accurate plant classification models for mobile devices*, Samiiha Nalwooga, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden, (2021)
@@ -76,7 +76,7 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ---
 
-# Other research activities
+# 📚 Other research activities
 
 - Program Committee member in IEEE International Conference on Artificial Intelligence and Virtual Reality <http://www.ieee-aivr.org/>
 - Reviewer in IEEE VR (2021)

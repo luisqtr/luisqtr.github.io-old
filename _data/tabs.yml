@@ -9,25 +9,21 @@
   name: Home
   icon: "fas fa-home"
 -
+  name: CV
+  icon: "fas fa-user"
+  path: tabs
+  url: cv
+-
   name: Projects
   icon: "fas fa-briefcase"
   path: tabs
-  url: portfolio
+  url: projects
 -
   name: Research
   icon: "fas fa-graduation-cap"
   path: tabs
   url: research
--
-  name: CV
-  icon: "fas fa-user"
-  path: tabs
-  url: cv
-# -
-#   name: Blog
-#   icon: "fas fa-comments"
-#   path: tabs
-#   url: blog
+
 # -
 #   name: Categories
 #   icon: "fas fa-stream"
@@ -39,12 +35,12 @@
 #   path: tabs
 #   url: tags
 -
-  name: Blog
-  path: tabs
-  url: archives
-  icon: "fas fa-archive"
--
   name: Media
   icon: "fas fa-headphones"
   path: tabs
   url: media
+-
+  name: Blog
+  path: tabs
+  url: archives
+  icon: "fas fa-archive"

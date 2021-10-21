@@ -4,8 +4,6 @@
 
 **Luis Quintero**
 
-Unity Developer of VR apps. Researcher in Machine Learning and Immersive Technologies, exploring how to incorporate physiological and movement signals into virtual environments to conduct real-time user analysis that enhance XR solutions in education, healthcare and manufacture.
-
 ## Execute
 
 *Windows:* After installing Ruby with DevKit (with the dependencies requested in the MSYS prompt). Then install the gems:
@@ -23,7 +21,8 @@ Open a brower and visit at <http://localhost:4000>.
 
 ## Other resources
 
-Jekyll Template for Academic purposes: <<https://github.com/alshedivat/al-folio>
+- Jekyll template: <https://github.com/cotes2020/jekyll-theme-chirpy>
+- Template for Academic purposes: <https://github.com/alshedivat/al-folio>
 
 ## License
 

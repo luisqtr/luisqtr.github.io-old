@@ -7,13 +7,13 @@
 #--------------------------
 
 # the main title
-title: Luis Quintero
+title: Luis Quintero - Website
 
 # it will display as the sub-title
 tagline: Doctoral researcher <br> combining VR and ML <br> + Developer w/ Unity <br> + Data Scientist w/ Python
 
 description: >-                        # used by seo meta and the atom feed
-  Luis Quintero - Personal Website. 
+  Personal Website
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://luiseduve.github.io'

@@ -8,3 +8,50 @@
 
 {% include_relative _addon/main.scss %}
 {% include_relative _addon/syntax.scss %}
+
+/*--- TOC ---*/
+
+@keyframes fade-up {
+    from {
+      opacity: 0;
+      position: relative;
+      top: 2rem;
+    }
+    to {
+      opacity: 1;
+      position: relative;
+      top: 0;
+    }
+  }
+  
+  #toc-wrapper {
+    border-left: 1px solid rgba(158, 158, 158, 0.17);
+    position: -webkit-sticky;
+    position: sticky;
+    top: 4rem;
+    transition: top 0.2s ease-in-out;
+    animation: fade-up .8s;
+    &.topbar-down {
+      top: 6rem;
+    }
+    >h3 {
+      @include label(inherit, 600);
+    }
+  }
+  
+  #toc li>a {
+    line-height: 1rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+  }
+
+  /* Hide SideBar and TOC */
+@media all and (max-width: 830px) {
+  .post img {
+    position: relative;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+  }
+}
