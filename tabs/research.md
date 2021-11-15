@@ -10,7 +10,7 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2021
 
-**Quintero L**, Papapetrou P,  Hollmén J, Fors U. Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods. *4th International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, Taichung, Taiwan (virtual). 2021. *\[in press\]*
+**Quintero L**, Papapetrou P,  Hollmén J, Fors U. Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods. *4th International Conference on Artificial Intelligence and Virtual Reality (AIVR)*, Taichung, Taiwan (virtual). 2021. <https://doi.org/10.1109/AIVR52153.2021.00015>
 
 **Quintero L**, Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality. *2021 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)*, Bari, Italy (virtual). 2021. <https://doi.org/10.1109/ISMAR52148.2021.00052>
 
