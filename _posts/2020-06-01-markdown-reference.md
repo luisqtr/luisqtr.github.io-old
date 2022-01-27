@@ -2,7 +2,7 @@
 title: MarkDown Reference
 author: Luis Quintero
 date: 2020-06-01 15:00:00 +0100
-categories: [Blogging, Writing]
+categories: [notes]
 tags: [writing]
 ---
 
@@ -10,11 +10,7 @@ This Jekyll template totally compatible with Markdown syntax. Now, let's take a 
 
 ## Emojis 😁
 
----
-
-🚧🚧
-**Work in Progress!**
-🚧🚧
+🚧🚧  For example **Work in Progress!** 🚧🚧
 
 ---
 
@@ -25,6 +21,8 @@ The most platform-independent syntax is
 ```
 (empty line)
 [//]: # (This may be the most platform independent comment)
+
+<!-- or like this -->
 ```
 
 Both conditions are important:
@@ -88,6 +86,10 @@ Fluttering and dancing in the breeze.
 
 [http://127.0.0.1:4000](http://127.0.0.1:4000)
 
+or
+
+<http://127.0.0.1:4000>
+
 
 ## Footnote
 
@@ -96,7 +98,7 @@ Click the hook will locate the footnote[^footnote].
 
 ## Image
 
-![Desktop View]({{ "/assets/img/sample/mockup.png" | relative_url }})
+![Desktop View]({{ "/assets/img/sample/mockup.png" | relative_url }}){:width="50%"}
 
 
 ## Inline code

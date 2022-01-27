@@ -27,12 +27,12 @@
 # -
 #   name: Categories
 #   icon: "fas fa-stream"
-#   path: tabs
+#   # path: tabs
 #   url: categories
 # -
 #   name: "Tags"
 #   icon: "fas fa-tags"
-#   path: tabs
+#   # path: tabs
 #   url: tags
 -
   name: Media

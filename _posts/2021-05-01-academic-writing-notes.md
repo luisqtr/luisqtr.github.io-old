@@ -2,11 +2,18 @@
 title: Notes and Tips for Academic Writing
 author: Luis Quintero
 date: 2021-05-01 15:00:00 +0100
-categories: [Blogging, Writing]
+categories: [research]
 tags: [writing]
 toc: true
 published: true
 ---
+
+
+# Thesis writing 📔
+
+Good recommendations for Bachelor's and Master's theses from Universitat Bremen:
+
+> <https://cgvr.informatik.uni-bremen.de/theses/index.shtml>
 
 # Manuscript Writing 📜
 
@@ -21,7 +28,7 @@ Short step-by-step description of Research Paper Writing Process from Western Il
 > <https://wiu.libguides.com/c.php?g=295539&p=1970520>
 
 
-# Research Methods 🔧
+# Research Methods 🎯
 
 Slides about Research methods in machine learning. *Professor Tom Dietterich*, Oregon State University.
  - <http://web.engr.oregonstate.edu/~tgd/talks/new-in-ml-2019.pdf>
@@ -32,8 +39,3 @@ Main reference book for Research Methods in HCI.
 Discussion from behavioral/psychological standpoint, includes example for IRB application (In Appendix 6)
 - [Running Behavioral Studies with Human Participants: A practical guide](https://dx.doi.org/10.4135/9781452270067)
 
-
-# Thesis writing
-
-Good recommendations for Bachelor's and Master's theses from Universitat Bremen:
-> <https://cgvr.informatik.uni-bremen.de/theses/index.shtml>

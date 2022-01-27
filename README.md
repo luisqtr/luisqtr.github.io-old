@@ -1,23 +1,32 @@
 # Personal Webpge
 
-[https://luiseduve.github.io/](https://luiseduve.github.io/)
+<https://luisqtr.com> and <https://luiseduve.github.io/>
 
 **Luis Quintero**
 
-## Execute
+## Installation
 
-*Windows:* After installing Ruby with DevKit (with the dependencies requested in the MSYS prompt). Then install the gems:
-```
->>gem install jekyll bundler
-```
+*For Windows:* 
 
-Once it is installed, this command is used to run the local server instead of deploying on GitHub:
+1. Install Ruby+DevKit [v2.6.9][Ruby] (with the dependencies requested in the MSYS prompt). 
+2. Install the gems: `$ gem install jekyll bundler`
+3. Install specific gems for project with bundler: `$ bundle install`
 
-```terminal
->> bundle exec jekyll serve
-```
+[Ruby]: https://github.com/oneclick/rubyinstaller2/releases/download/RubyInstaller-2.6.9-1/rubyinstaller-devkit-2.6.9-1-x64.exe
 
-Open a brower and visit at <http://localhost:4000>.
+## Execution
+
+Once the gems are installed, test locally instead of deploying on GitHub every change: 
+
+1. Run `$ bundle exec jekyll serve`
+2. Open a browser at <http://localhost:4000>
+
+## Updating website
+
+When finished editing, update the html for categories and tabs. Currently `categories=[notes, XR, ML, research]` and `tags=[dev, writing]`
+
+1.  running in git bash `$ sh _scripts/sh/create_pages.sh`, or even `$ sh ./tools/build.sh` to generate the whole website.
+2. Send to github: `git push`
 
 ## Other resources
 

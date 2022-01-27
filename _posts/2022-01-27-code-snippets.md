@@ -1,14 +1,13 @@
 ---
 title: Personal Code Snippets
 author: Luis Quintero
-date: 2020-06-10 20:00:00 +0100
-categories: [Notes]
-tags: [Dev]
+date: 2022-01-27 18:00:00 +0100
+categories: [notes]
+tags: [dev]
 toc: true
 published: true
 ---
 
----
 ---
 # Git
 
@@ -20,10 +19,10 @@ Git is a distributed Version Control System (VCS), SVN is centralized. To check 
 
 Initial setup
 
-```
-git config --global user.name “Luis Quintero”
+```bash
+git config --global user.name "username" # Same than Github
 git config --global
-user.email "user@email"
+user.email "user@email"		#Same than Github
 git config --list 
 ```
 
@@ -34,9 +33,9 @@ git help <verb>
 git <verb> --help
 ```
 
-### Two common scenarios for Git
+## Two common scenarios for Git
 
-1. Start tracking an existing project:
+### 1. Start tracking an existing project:
 
 ``` bash
 git init		# Start git tracking
@@ -68,7 +67,7 @@ git commit -m "MESSAGE"	#Commit with a specific message
 git log		        #Shows the commit log
 ```
 
-2. Create a remote project in git
+### 2. Create a remote project in git
 
 `git remote add origin "https://github.com/luiseduve/$repo_name.git"`
 
@@ -93,27 +92,29 @@ git pull origin <branch>
 git push origin <branch>
 ```
 
-Use carefully, but helpful to push all local  branches to the repo:
+Push all local  branches to the repo, **use carefully**❗❗:
 
 `git push --all `
 
-### Create branches
+## Create branches
 
-Common workflow is to create branches instead of working on the MASTER branch
+Common workflow is to create branches instead of working on the `main` branch
 
-``` bash
+```bash
 git branch <branchname>		Create branch
 git branch				List existing branch
 git checkout <branchname>		Work on that branch
 ```
 
-Commit changes as usual on the working branch, it does not have effects on the master or remote branch. Push branch to remote
+Shortcut to create and checkout immediately: `git checkout -b <branchname>`
 
-`git push -u origin <branch>	`
+Commit changes as usual on the working branch, it does not have effects on the master or remote branch. Push branch to remote:
 
-`-u` associates local and remote branches to be able to use simply git push and git pull
+`git push -u origin <branch>`
 
-### Merge branches
+- `-u` associates local and remote branches to be able to use simply git push and git pull
+
+## Merge branches
 
 ``` bash
 git checkout master
@@ -128,49 +129,42 @@ git push origin --delete <branchname>	#Delete from origin
 
 ## Fixing common mistakes in Git
 
-- Remove changes of a file between commit
+- Remove changes of a file between commit: `git checkout <filename>`
 
-`git checkout <filename>`
+- Modify message of the last commit, this works only in working directory, not with a history where other people has access: `git commit –amend -m "New message"`
 
-- Modify message of the last commit, this works only in WD, not with a history where other people has access
-
-`git commit –amend -m "New message"`
-
-- In case we want to move to a branch, the last commit that we accidentally pushed to the master branch
-
-`git cherry-pick <hash from last commit>`
+- In case we want to move to a branch, the last commit that we accidentally pushed to the master branch: `git cherry-pick <hash from last commit>`
 
 - Try to return to an initial commit, three types: soft, mixed (by default), hard
-
-```bash
+```
 git reset --soft <hash>		# Keep the changes in the staging area
 git reset <hash>			# Changes are in the working directory
 git reset --hard <hash>		# Reverts all tracked files where it was
 git clean -df		        # Reverts untracked files
 ```
 
-- Even with a reset hard, the git reflog and git checkout backup can help us to collect back the deleted logs.
+- Even with a reset hard, the `git reflog` and `git checkout backup` can help us to collect back the deleted logs.
 
-If someone has already worked on the existing commits. git revert will create a new commit that undoes the effects of a specific commit hash.
+- If someone has already worked on the existing commits. `git revert` will create a new commit that undoes the effects of a specific commit hash.
 
-- Untracking a folder that was already committed and now is in the .gitignore
-
+- Untracking a folder that was already committed and now is in the `.gitignore`:
+```
 `git rm -r --cached <folder_name>/`
 `git update-index --assume-unchanged <folder_name>/`
+```
 
--	Update folders based on .gitignore changes
-
+-	Update folders based on `.gitignore` changes
 ```bash
 git rm -r --cached .
 git add .
 git commit -m "fixed untracked files"
 ```
 
-- Track a remote repo from the current local repo
+- Track a remote repo from the current local repo: `git branch --set-upstream-to origin/master`
 
-`git branch --set-upstream-to origin/master`
+### Stashing temporary changes
 
-- Stash command: When you have changes that you are not ready to commit. Save them in a temporary place and come back to those changes later on.
+``git stash` is useful hen you have changes that you are not ready to commit. Save them in a temporary place and come back to those changes later on:
 
 ```bash
 git stash save "Message as a reminder"
@@ -183,14 +177,16 @@ git stash clear			    # Clears the stash stack
 
 Stash is shared between branches, then stash can be used to move changes that were done by accident in the master, and commit it in a branch.
 
-- Diff and Merge Tools: Visualize changes between files. Download diffmerge
+## Diff and Merge Tools
+
+Visualize changes between files. Download diffmerge
 
 ```bash
 git diff 		# Traditional diff
 git difftool	# Opens a window with changes
 ```
 
-### Git submodules
+## Git submodules
 
 Allow to bring other git repositories (*submodules*) within a main git project (*superproject*)
 
@@ -208,34 +204,77 @@ Summary of the submodules from the superproject
 
 `git submodule status`
 
-**To keep in mind:**
+### Keep in mind
+
 - Once your `cd` inside a submodule, all git commands are with respect to the submodule and not the superproject.
-- If there is a change in the submodule from the superproject, first you need to `commit` the submodule repo and **then** commit the superproject with a message like "Update reference to submodule". The superproject just keeps a reference to the commit in the submodule that needs to be `checkckout`, does not track all the changes like it would do to the other folders.
+- If there is a change in the submodule from the superproject, first you need to `commit` the submodule repo and **then** commit the superproject with a message like `"Update reference to submodule"`. 
+- The superproject just keeps a reference to the commit in the submodule that needs to be `checkout`, does **not** track all the changes like it would do to the other folders.
 
 
 ---
 ---
 # Python
 
-## Start a project in Python + Git
+## Start a project in Virtual Environments
 
--	Create virtual environment with:
+Create a new virtual environment in the current directory
 
-`python -m venv env`
-`venv\Scripts\activate.bat`
+`python -m venv [env]`
+`[env]\Scripts\activate.bat`
 
--	Install libraries with pip and create requirements.txt
+Export the packages for the project. After installing the packages, and inside the virtual environment.
 
-`pip install [libs]`
-`pip freeze > requirements.txt`
+```bash
+pip list     # Shows the packages that are installed
+pip freeze > requirements.txt   # write the packages to a file
+```
 
--	Jupyter Lab
+To load a new virtual environment from the previous requirements
 
-`start jupyter lab --no-browser`
+`pip install -r requirements.txt`
+
+Do not commit the `env` to source control, just the `requirements.txt`
+To deactivate a virtual environment just deactivate from the `env` folder
+To delete a folder with `env`, in Windows: `rmdir venv /s`
+
+Create a venv with access to the system packages:
+
+```bash
+python -m venv env --system-site-packages
+env/Scripts/activate.bat
+pip list
+pip list --local # To list just the env packages
+```
+
+## Jupyter
+
+### Jupyter-lab
+
+**Note:** Still preferable to use VSCode with their implementation for jupyter notebooks
+
+See installation and docs at <https://jupyterlab.readthedocs.io/en/stable/getting_started/overview.html>
+
+This command start in the console and does not trigger the browser automatically:
+```cmd
+>> start jupyter lab --no-browser`
+```
+
+### Convert Jupyter Notebooks to HTML, PDF, $$\LaTeX$$
+
+Install jupyter notebooks from Python pip
+
+`pip install jupyter`
+
+Download and install the program [Pandoc](www.pandoc.org). Requires $$\TeX$$ installation (MiKTeX in Windows) to be able to compile tex files and generate PDF (using XeLaTeX):
+
+To convert a jupyter notebook, run the command window:
+
+`jupyter nbconvert --to <FORMAT> <ipynb file>`
+
+Among the accepted formats there are: `html`, `tex`, `pdf`. For more info about the accepted formats, check [nbconvert website](https://nbconvert.readthedocs.io/)
 
 
-
-## Unit tests
+## Python Unit tests
 
 To test a `calc.py` file with basic calculations. 
 
@@ -265,36 +304,6 @@ if __name__ == ‘__main__’:
 	unittest.main()
 ```
 
-## Virtual Environments
-
-Create a new virtual environment in the current directory
-
-`python -m venv [env]`
-`[env]\Scripts\activate.bat`
-
-Export the packages for the project. After installing the packages, and inside the virtual environment.
-
-```bash
-pip list     # Shows the packages that are installed
-pip freeze > requirements.txt   # write the packages to a file
-```
-
-To load a new virtual environment from the previous requirements
-
-`pip install -r requirements.txt`
-
-Do not commit the `env` to source control, just the `requirements.txt`
-To deactivate a virtual environment just deactivate from the `env` folder
-To delete a folder with `env`, in Windows: `rmdir venv /s`
-
-Create a venv with access to the system packages:
-
-```bash
-python -m venv env --system-site-packages
-venv/Scripts/activate.bat
-pip list
-pip list --local # To list just the venv packages
-```
 
 ## Django App
 
@@ -368,21 +377,7 @@ Looks for a file .travis.yml that describes how the project is supposed to be bu
 
 ---
 
-# Additional Terminal Commands
-
-## Convert Jupyter Notebooks to HTML, PDF, $$\LaTeX$$
-
-Install jupyter notebooks from Python pip
-
-`pip install jupyter`
-
-Download and install the program [Pandoc](www.pandoc.org). Requires $$\TeX$$ installation (MiKTeX in Windows) to be able to compile tex files and generate PDF (using XeLaTeX):
-
-To convert a jupyter notebook, run the command window:
-
-`jupyter nbconvert --to <FORMAT> <ipynb file>`
-
-Among the accepted formats there are: `html`, `tex`, `pdf`. For more info about the accepted formats, check [nbconvert website](https://nbconvert.readthedocs.io/)
+# More languages and libraries
 
 ## Run local Jekyll website with Ruby
 
