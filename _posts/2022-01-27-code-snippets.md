@@ -1,9 +1,9 @@
 ---
-title: Personal Code Snippets
+title: Frequent Code Snippets
 author: Luis Quintero
 date: 2022-01-27 18:00:00 +0100
-categories: [notes]
-tags: [dev]
+categories: [notes, dev]
+tags: [others]
 toc: true
 published: true
 ---

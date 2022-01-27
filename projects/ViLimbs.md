@@ -3,8 +3,8 @@ layout: post
 title: ViLimbs
 author: Luis Quintero
 date: 2015-08-30 14:00:00 -0500
-categories: [HCI, Physiological Signals, Health Informatics]
-tags: [dev]
+categories: [research,projects]
+tags: [XR, physio]
 ---
 
 Bio-signal-based interaction with virtual limbs to improve rehabilitation for amputees with phantom limb pain phenomenon. The system uses augmented-reality techniques, neural and muscle activity measure and multisensory feedback.

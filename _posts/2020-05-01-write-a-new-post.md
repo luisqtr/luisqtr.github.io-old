@@ -2,8 +2,8 @@
 title: Writing a New Post
 author: Luis Quintero
 date: 2020-05-01 14:00:00 +0100
-categories: [notes, XR, ML, research]
-tags: [writing]
+categories: [notes, writing]
+tags: [XR, ML, physio, unity, python,others]
 image: /assets/img/portfolio/PortalSense.jpg
 toc: true
 published: false
@@ -26,6 +26,8 @@ categories: [TOP_CATEGORIE, SUB_CATEGORIE]
 tags: [TAG]     # TAG names should always be lowercase
 ---
 ```
+
+Maximum one category and one subcategory. Check the available **Categories, Subcategories, and Tags** in the [README.md]({{site.baseurl/../../README.md)
 
 > **Note**: The posts' ***layout*** has been set to `post` by default, so there is no need to add the variable ***layout*** in Front Matter block.
 

@@ -2,8 +2,8 @@
 title: MarkDown Reference
 author: Luis Quintero
 date: 2020-06-01 15:00:00 +0100
-categories: [notes]
-tags: [writing]
+categories: [notes, writing]
+tags: [others]
 ---
 
 This Jekyll template totally compatible with Markdown syntax. Now, let's take a look for the text and typography in this theme.

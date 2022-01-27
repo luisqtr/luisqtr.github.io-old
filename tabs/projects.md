@@ -6,8 +6,11 @@ toc: true
 
 ## Latest Projects
 
-| ExciteOMeter *(Research Project)*  <a href="{{site.baseurl}}/projects/ExciteOMeter"><img src="{{site.baseurl}}/assets/img/portfolio/EoM.jpg" width="90%"> </a> | BioPhyS *(Research Project)* <br> <a href="{{site.baseurl}}/projects/BioPhyS"><img src="{{site.baseurl}}/assets/img/portfolio/BioPhyS.png" width="100%"> </a> | PortalSense *(Entrepreneurship)* <br> <a href="{{site.baseurl}}/projects/PortalSense"><img src="{{site.baseurl}}/assets/img/portfolio/PortalSense.jpg" width="100%"> </a> |
-| EasyBlood *(Master's Project)* <br> <a href="{{site.baseurl}}/projects/EasyBlood"><img src="{{site.baseurl}}/assets/img/portfolio/EasyBlood.jpg" width="100%"> </a> | PARE-VR *(Master's Thesis)* <br> <a href="{{site.baseurl}}/projects/PARE-VR"><img src="{{site.baseurl}}/assets/img/portfolio/PARE-VR.jpg" width="100%"> </a> | -- |
+| KinemaTS *(Python lib)* <a href="{{site.baseurl}}/projects/KinemaTS"><img src="{{site.baseurl}}/assets/img/portfolio/KinemaTS.jpg" width="100%"> </a>  | ExciteOMeter *(Unity Package)*  <a href="{{site.baseurl}}/projects/ExciteOMeter"><img src="{{site.baseurl}}/assets/img/portfolio/EoM/architecture.jpg" width="85%"> </a> | PortalSense *(Entrepreneurship)* <br> <a href="{{site.baseurl}}/projects/PortalSense"><img src="{{site.baseurl}}/assets/img/portfolio/PortalSense.jpg" width="100%"> </a> |
+
+## 2019-2020
+
+| BioPhyS *(Research Project)* <br> <a href="{{site.baseurl}}/projects/BioPhyS"><img src="{{site.baseurl}}/assets/img/portfolio/BioPhyS.png" width="100%"> </a> | EasyBlood *(Master's Project)* <br> <a href="{{site.baseurl}}/projects/EasyBlood"><img src="{{site.baseurl}}/assets/img/portfolio/EasyBlood.jpg" width="100%"> </a> | PARE-VR *(Master's Thesis)* <br> <a href="{{site.baseurl}}/projects/PARE-VR"><img src="{{site.baseurl}}/assets/img/portfolio/PARE-VR.jpg" width="100%"> </a> | -- |
 
 ## 2017-2018
 

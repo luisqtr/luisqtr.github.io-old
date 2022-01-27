@@ -2,9 +2,9 @@
 title: Developing XR applications with Unity using OpenXR, XRIT and Oculus Quest
 author: Luis Quintero
 date: 2022-01-25 18:00:00 +0100
-categories: [XR]
+categories: [education, dev]
 # image: /assets/img/portfolio/PortalSense.jpg
-tags: [dev]
+tags: [XR, unity]
 ---
 
 # XR development in Unity 2020.3.26f1

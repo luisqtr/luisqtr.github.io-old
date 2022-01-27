@@ -2,8 +2,8 @@
 title: Notes and Tips for Academic Writing
 author: Luis Quintero
 date: 2021-05-01 15:00:00 +0100
-categories: [research]
-tags: [writing]
+categories: [research, writing]
+tags: [others]
 toc: true
 published: true
 ---

@@ -3,8 +3,8 @@ layout: post
 title: EasyBlood
 author: Luis Quintero
 date: 2019-03-15 22:00:00 +0100
-categories: [Virtual Reality, Health Informatics, Education, Serious Games]
-tags: [unity]
+categories: [education, projects]
+tags: [XR, unity]
 ---
 
 # Description

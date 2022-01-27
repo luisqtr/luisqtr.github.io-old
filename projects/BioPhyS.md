@@ -3,11 +3,13 @@ layout: post
 title: BioPhyS
 author: Luis Quintero
 date: 2019-09-10 21:00:00 +0100
-categories: [Virtual Reality, Physiological Signals, Training]
-tags: [unity]
+categories: [research, projects]
+tags: [XR, physio, unity, python]
 ---
 
-# BIOCYBER PHYSICAL SYSTEM FOR MILITARY TRAINING USING VIRTUAL REALITY
+# Biocyber Physical system for Military Training using Virtual Reality
+
+📃**Paper:** [A Psychophysiological Model of Firearms Training in Police Officers: A Virtual Reality Experiment for Biocybernetic Adaptation, *Frontiers in Psychology*.](https://doi.org/10.3389/fpsyg.2020.00683)
 
 Intelligent system that uses sophisticated biofeedback technologies to enhance cognitive skills in virtual military training. The system integrates novel Virtual Reality (VR) and Biocybernetic technologies to deliver highly adaptive scenarios aiming at boosting the training of important cognitive skills in the military personnel.
 

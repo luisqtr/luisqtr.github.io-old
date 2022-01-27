@@ -3,7 +3,7 @@ layout: post
 title: Know Yourself | Conócete
 author: Luis Quintero
 date: 2016-12-13 16:00:00 -0500
-categories: [Serious Games, Education]
+categories: [education, projects]
 tags: [unity]
 ---
 

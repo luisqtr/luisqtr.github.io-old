@@ -3,8 +3,8 @@ layout: post
 title: BL Engine & CAVE
 author: Luis Quintero
 date: 2017-03-11 20:00:00 +0000
-categories: [Virtual Reality, Physiological Signals]
-tags: [unity]
+categories: [research, projects]
+tags: [XR, physio, unity]
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/A6ISan22cz8?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>

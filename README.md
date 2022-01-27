@@ -23,7 +23,11 @@ Once the gems are installed, test locally instead of deploying on GitHub every c
 
 ## Updating website
 
-When finished editing, update the html for categories and tabs. Currently `categories=[notes, XR, ML, research]` and `tags=[dev, writing]`
+When finished editing, update the html for categories and tabs. Currently:
+
+|categories|subcategory|tags|
+|---|---|---|
+|`notes, research, education`|`dev, writing, projects`|`XR, ML, physio, unity, python, others`|
 
 1.  running in git bash `$ sh _scripts/sh/create_pages.sh`, or even `$ sh ./tools/build.sh` to generate the whole website.
 2. Send to github: `git push`

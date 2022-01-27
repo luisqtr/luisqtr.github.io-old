@@ -13,10 +13,10 @@ title: Luis Quintero
 tagline: Doctoral researcher <br> combining VR and ML <br> + Developer w/ Unity <br> + Data Scientist w/ Python
 
 description: >-                        # used by seo meta and the atom feed
-  Personal Website
+  Luis Quintero | Personal Website > [ENG] Unity developer and doctoral (PhD) researcher in XR technologies working with behavioral analysis in interactive Virtual Reality (VR) environments using Machine Learning. [ESP] Desarrollador de sistemas de realidad virtual e investigador doctoral explorando análisis de comportamiento en entornos interactivos virtuales con análisis de datos e inteligencia artificial..
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://luiseduve.github.io'
+url: 'https://luisqtr'
 
 author: Luis Quintero                  # change to your full name
 
@@ -27,10 +27,10 @@ github:
   username: luiseduve             # change to your github username
 
 twitter:
-  username: luisqntr  # change to your twitter username
+  username: luisqtr0  # change to your twitter username
 
 linkedin:
-  username: levelezq            # change to your twitter username
+  username: luisqtr            # change to your twitter username
 
 social:
   name: Luis Quintero                  # it will shows as the copyright owner in Footer
@@ -39,9 +39,8 @@ social:
     # The first element serves as the copyright owner's link
     - https://github.com/luiseduve       # change to your github homepage
     # Uncomment below to add more social links
-    - https://twitter.com/luisqntr      # change to your twitter homepage
-    # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/levelezq
+    # - https://twitter.com/XXX      # change to your twitter homepage
+    # - https://www.linkedin.com/in/XXX
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
