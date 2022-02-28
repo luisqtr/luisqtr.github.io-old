@@ -88,6 +88,8 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 # 📚 Other research activities
 
 - Program Committee member in IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR) <http://www.ieee-aivr.org/>
-- Reviewer in IEEE VR (2021)
-- Reviewer in IEEE AIVR (2020, 2021)
-- Reviewer in Granular Computing Journal (2019)
+- Reviewer in IEEE VR (2021) <http://ieeevr.org//>
+- Reviewer in IEEE AIVR (2020, 2021) <http://www.ieee-aivr.org/>
+- Reviewer in Granular Computing Journal (2019) <https://www.springer.com/journal/41066>
+- Reviewer in Data Mining Journal (2022) <https://www.springer.com/journal/10618>
+
