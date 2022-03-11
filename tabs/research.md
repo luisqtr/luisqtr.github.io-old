@@ -10,7 +10,7 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2022
 
-**Quintero L**, Papapetrou P,  Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: an Open-Source Unity Plugin to Analyze Heart Activity and Movement Trajectories in Custom VR Environments. *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VR - Workshops)*, (virtual). 2022. *(**Accepted:** In Press)* <br>🔍[See more...]({{site.baseurl}}/projects/ExciteOMeter)
+**Quintero L**, Papapetrou P,  Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: an Open-Source Unity Plugin to Analyze Heart Activity and Movement Trajectories in Custom VR Environments. *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VR - Workshops)*, (virtual). 2022. <https://doi.org/10.1109/VRW55335.2022.00017> <br>🔍[See more...]({{site.baseurl}}/projects/ExciteOMeter)
 
 ## 2021
 
