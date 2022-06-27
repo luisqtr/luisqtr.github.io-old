@@ -10,7 +10,9 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2022
 
-**Quintero L**, Papapetrou P,  Muñoz JE, De Mooij J., and Gaebler M. Excite-O-Meter: an Open-Source Unity Plugin to Analyze Heart Activity and Movement Trajectories in Custom VR Environments. *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VR - Workshops)*, (virtual). 2022. <https://doi.org/10.1109/VRW55335.2022.00017> <br>🔍[See more...]({{site.baseurl}}/projects/ExciteOMeter)
+Bernsland M, Moshfegh A, Lindén K, Bajin S, **Quintero L**, Solsona J, and Rostami A. CS:NO – an Extended Reality Experience for Cyber Security Education. *ACM International Conference on Interactive Media Experiences (IMX '22)*. 287–292. 2022. <https://doi.org/10.1145/3505284.3532971>
+
+**Quintero L**, Papapetrou P,  Muñoz JE, De Mooij J, and Gaebler M. Excite-O-Meter: an Open-Source Unity Plugin to Analyze Heart Activity and Movement Trajectories in Custom VR Environments. *IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (IEEE VR - Workshops)*, (virtual). 2022. <https://doi.org/10.1109/VRW55335.2022.00017> <br> 🔍[See more...]({{site.baseurl}}/projects/ExciteOMeter)
 
 ## 2021
 
@@ -35,7 +37,7 @@ Muñoz JE, **Quintero L**, Stephens CL and Pope AT. A Psychophysiological Model 
 
 Muñoz JE, Pope AT, **Quintero L.V.**. Integrating Biocybernetic Adaptation in Virtual Reality Training Concentration and Calmness in Target Shooting. *International Conference on Physiological Computing Systems (PhyCS)*. 2019. <https://doi.org/10.1007/978-3-030-27950-9_12>
 
-`Master's Thesis >>` **Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics. <br> 🔍[See PDF...]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %})
+**[Master's Thesis]** **Quintero, L**. *Facilitating Technology-based Mental Health Interventions with Mobile Virtual Reality and Wearable Smartwatches*. Karolinska Institutet \| Stockholm University. Master's Programme in Health Informatics. <br> 🔍[See PDF...]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %})
 
 ## 2018
 
@@ -66,7 +68,9 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ## 2022
 
-- Three students from MSc. Health Informatics, Karolinska Institutet, Sweden. *(ongoing)*
+- Daniel Schulze, *Explainability of personalized stress detection models from wearable-collectible physiological data*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
+- Divya Damodaran, *Machine Learning for prediction of start and termination of Freezing of Gait in Parkinson’s Disease*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
+- Yujie Xiang, *Understanding Heart Rate Responses to Detect Emotional Valence Using Interpretable Machine Learning*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
 
 ## 2021
 
@@ -75,7 +79,6 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - Samiiha Nalwooga, *Knowledge distillation for building accurate plant classification models for mobile devices*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
 - Mawada Hamad,*The trade-off between performance and compression rate when applying knowledge distillation*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
 - Ali Mussayab, *Design requirements for Recruiting Contingent Café Baristas with Immersive Virtual Reality Simulations (IVRS): A design-based research approach*, MSc. Design for Creative and Immersive Technologies, Stockholm University, Sweden.
-
 
 
 <!-- 
@@ -87,9 +90,9 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 # 📚 Other research activities
 
-- Program Committee member in IEEE International Conference on Artificial Intelligence and Virtual Reality (AIVR) <http://www.ieee-aivr.org/>
-- Reviewer in IEEE VR (2021) <http://ieeevr.org//>
-- Reviewer in IEEE AIVR (2020, 2021) <http://www.ieee-aivr.org/>
-- Reviewer in Granular Computing Journal (2019) <https://www.springer.com/journal/41066>
-- Reviewer in Data Mining Journal (2022) <https://www.springer.com/journal/10618>
+- Program Committee member in IEEE International Conference on [Artificial Intelligence and Virtual Reality (AIVR)](http://www.ieee-aivr.org/)
+- Reviewer in Conference [IEEE VR](http://ieeevr.org/) (2021)
+- Reviewer in Conference [IEEE AIVR](http://www.ieee-aivr.org/) (2020, 2021)
+- Reviewer in [Granular Computing Journal](https://www.springer.com/journal/41066) (2019)
+- Reviewer in [Data Mining Journal](https://www.springer.com/journal/10618) (2022)
 
