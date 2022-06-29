@@ -10,17 +10,17 @@
 title: Luis Quintero
 
 # it will display as the sub-title
-tagline: Doctoral researcher <br> combining VR and ML <br> + Developer w/ Unity <br> + Data Scientist w/ Python
+tagline: Doctoral researcher <br> <b>@ DSV Stockholm Univ.</b> <br><br> 😎 XR + ML <br> 🔨 Unity + Python
 
 description: >-                        # used by seo meta and the atom feed
   Luis Quintero | Personal Website > [ENG] Unity developer and doctoral (PhD) researcher in XR technologies working with behavioral analysis in interactive Virtual Reality (VR) environments using Machine Learning. [ESP] Desarrollador de sistemas de realidad virtual e investigador doctoral explorando análisis de comportamiento en entornos interactivos virtuales con análisis de datos e inteligencia artificial..
 
 # Replace with the website url, e.g. 'https://username.github.io'
-url: 'https://luisqtr'
+url: 'https://luisqtr.com/'
 
 author: Luis Quintero                  # change to your full name
 
-avatar: /assets/img/profile.jpg   # support internet resources
+avatar: /assets/img/profile2_square.jpg   # support internet resources
 display_avatar: false              # true: to show | false: to hide
 
 github:
