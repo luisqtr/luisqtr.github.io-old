@@ -54,17 +54,12 @@ Design, implementation, and management of projects related to digital health sen
 (February 2010 - August 2015) | **National University, Colombia**
 
 Emphasis on signal processing, hardware programming, control theory, and telecommunication. <br>
-GPA: 4.4/5.0 - Best 10% among graduated students.
+GPA: 4.4/5.0 - Ranked 3rd/50 students.
 
 ---
 
 # 🏆 Grants and Honors
 
-- **(2017)** [~600K SEK] - Scholarship for studies at Master's level, awarded by [Swedish Institute](https://si.se/en/apply/scholarships/) 
-- **(2013-2015)** [~2000 USD]: Grant [Roberto Rocca](http://sobipro.manizales.unal.edu.co/index.php/noticias/35-ano-2013/3959-estudiantes-de-la-u-n-recibieron-la-beca-roberto-rocca) for tuition fees during undergraduate studies, awarded by [Ternium](https://www.robertorocca.org/).
-- **(2009-2010)** [~3000 USD]: Grant for technical/vocational training in Computer Systems, awarded by [CHEC](https://www.youtube.com/watch?v=BYSb2hy46ds).
-
-- **(2015)**: Best 10% GPA among graduated students - National University
-- **(2012)**: Best design and programming of robot - VEX Robotics Competition
-- **(2009)**: Best academic performance among graduated students in high School
-- 10+ Certifications in MOOCs
+- **(2017)**: Scholarship for studies at Master's level, awarded by [Swedish Institute](https://si.se/en/apply/scholarships/). [~600K SEK = ~60K USD]
+- **(2013-2015)**: Grant [Roberto Rocca](http://sobipro.manizales.unal.edu.co/index.php/noticias/35-ano-2013/3959-estudiantes-de-la-u-n-recibieron-la-beca-roberto-rocca) for tuition fees during undergraduate studies, awarded by [Ternium](https://www.robertorocca.org/). [~2000 USD]
+- **(2009-2010)**: Grant for technical/vocational training in Computer Systems, awarded by [CHEC](https://www.youtube.com/watch?v=BYSb2hy46ds). [~3000 USD]

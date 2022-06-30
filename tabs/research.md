@@ -95,4 +95,4 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - Reviewer in Conference [IEEE AIVR](http://www.ieee-aivr.org/) (2020, 2021)
 - Reviewer in [Granular Computing Journal](https://www.springer.com/journal/41066) (2019)
 - Reviewer in [Data Mining Journal](https://www.springer.com/journal/10618) (2022)
-
+- Reviewer in [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20) (2022) 
