@@ -1,6 +1,6 @@
 # Personal Webpge
 
-<https://luisqtr.com> and <https://luiseduve.github.io/>
+<https://luisqtr.com> and <https://luisqtr.github.io/>
 
 **Luis Quintero**
 
