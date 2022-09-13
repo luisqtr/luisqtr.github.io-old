@@ -20,12 +20,15 @@ Good recommendations for Bachelor's and Master's theses from Universitat Bremen:
 Resources for academic writing support at SU:
 > <https://www.su.se/english/education/student-support/academic-writing-service/resources-for-academic-writing-1.440427>
 
-Similar resources taken from Michael Gaebler: 
+Similar resources taken from *Michael Gaebler*: 
 > <https://www.michaelgaebler.com/?page_id=611>
-
 
 Short step-by-step description of Research Paper Writing Process from Western Illinois University: 
 > <https://wiu.libguides.com/c.php?g=295539&p=1970520>
+
+
+Writing better discussions for HCI papers - *Daniel Buschek*
+> <https://dbuschek.medium.com/how-to-write-better-discussions-for-your-hci-study-be851092f351>
 
 
 # Research Methods 🎯
