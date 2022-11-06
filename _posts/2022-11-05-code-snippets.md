@@ -1,7 +1,7 @@
 ---
 title: Frequent Code Snippets
 author: Luis Quintero
-date: 2022-01-27 18:00:00 +0100
+date: 2022-11-05 18:00:00 +0100
 categories: [notes, dev]
 tags: [others]
 toc: true
@@ -375,6 +375,76 @@ Write python code and annotate it so it become more efficient transforming it to
 Travis: Compiles and test it automatically across different platforms.
 Looks for a file .travis.yml that describes how the project is supposed to be built.
 
+
+---
+
+# OpenSSH
+
+Used to create private and public keys in git repositories hosted outside GitHub, for instance in GitLab/Gitea servers.
+
+SSH protocol provides a secure communication channel to share information with the server without having to provide username and password each time. OpenSSH is the program to generate these keys, which comes by default on GNU/Linux and macOS, but not Windows.
+
+The easiest way is to install either Windows Subsystem for Linux (WSL) or [Git for Windows](https://gitforwindows.org/) which provides Bash emulation (Git Bash) used for running git and the `ssh-keygen` command to create the keys.
+
+Types of SSH keys: Always favor ED25519 SSH keys, otherwise go to common RSA SSH Keys.
+More info about security keys [here](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
+
+## Create the SSH key
+
+To create either ED25519 or RSA:
+
+```bash
+ssh-keygen -t ed25519 -C "email@example.com"
+ssh-keygen -t rsa -b 4096 -C "email@example.com"
+```
+
+Flag `-C` adds a comment and helps to identify which is which in case you want to know which is which
+
+Next, input a file path to save the SSH key pair.
+
+Next, you will be prompted to input a password to secure the new SSH key pair. It's a best practice but not required.
+
+To add or change the password of an SSH key pair, use the `-p` flag:
+
+`ssh-keygen -p -f <keyname>`
+
+To add the SSH key to GitLab, copy the SSH to the keyboard using:
+
+*WSL/GNU/Linux (requires xclip package)*
+
+`xclip -sel clip < ~/.ssh/id_ed25519.pub`
+
+*WINDOWS (in powershell)*
+
+`cat ~/.ssh/id_ed25519.pub | clip`
+
+Paste it on the GitLab/Gitea/Github repo in the settings for public keys.
+
+## Test the SSH connection
+
+To test if everything is set up correctly:
+
+`ssh -vT git@<github.com> # Or gitlab.com, or gitea repo`
+
+Finally, clone the repository with git as usual.
+
+## Add the SSH key manually to the agent
+
+- Execute the `ssh-agent` in the git bash console.
+- Evaluate `eval "$(ssh-agent -s)"`
+- Add the generated key through `ssh-add ~/.ssh/[path_to_key]`
+
+## Persistent use of the same key with known hosts
+
+- Copy and paste both private and public (.pub) keys to `~/.ssh/`
+- Create a config file to define which key to use with which host: `nano ~/.ssh/config`
+- Add a modified version of this file:
+```
+Host github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519
+```
+
 ---
 
 # More languages and libraries
@@ -395,57 +465,6 @@ To create a Jekyll folder and run the server
 >> cd myblog
 >> bundle exec jekyll serve
 ```
-
-## OpenSSH
-
-Used to create private and public keys in git repositories hosted outside GitHub, for instance in the GitLab server of XR4ALL project.
-
-SSH protocol provides a secure communication channel to share information with the server without having to provide username and password each time. OpenSSH is the program to generate these keys, which comes by default on GNU/Linux and macOS, but not Windows.
-
-The easiest way is to install either Windows Subsystem for Linux (WSL) or [Git for Windows](https://gitforwindows.org/) which provides Bash emulation (Git Bash) used for running git and the `ssh-keygen` command to create the keys.
-
-Types of SSH keys: Always favor ED25519 SSH keys, otherwise go to common RSA SSH Keys.
-More info about security keys [here](https://www.digitalocean.com/community/tutorials/understanding-the-ssh-encryption-and-connection-process)
-
-To create either ED25519 or RSA:
-
-```bash
-ssh-keygen -t ed25519 -C "email@example.com"
-ssh-keygen -t rsa -b 4096 -C "email@example.com"
-```
-
-Flag `-C` adds a comment and helps to identify which is which in case you want to know which is which
-
-Next, input a file path to save the SSH key pair.
-
-Next, you will be prompted to input a password to secure the new SSH key pair. It’s a best practice but not required.
-
-To add or change the password of an SSH key pair, use the `-p` flag:
-
-`ssh-keygen -p -f <keyname>`
-
-To add the SSH key to GitLab, copy the SSH to the keyboard using:
-
-*WSL/GNU/Linux (requires xclip package)*
-
-`xclip -sel clip < ~/.ssh/id_ed25519.pub`
-
-*WINDOWS (in powershell)*
-
-`cat ~/.ssh/id_ed25519.pub | clip`
-
-Paste it on the GitLab/Gitea/Github repo in the settings for public keys.
-
-To test if everything is set up correctly:
-
-`ssh -T git@<gitlab.com> # Change for specific GitLab server`
-
-Finally, clone the repository with git as usual.
-
-**In case of error connecting through SSH**
-
-Execute the `ssh-agent` in the git bash console via `eval "$(ssh-agent -s)"` and add the generated key through `ssh-add [path_to_key]`
-
 
 ## Git-SVN
 

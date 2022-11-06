@@ -29,7 +29,7 @@ When finished editing, update the html for categories and tabs. Currently:
 |---|---|---|
 |`notes, research, education`|`dev, writing, projects`|`XR, ML, physio, unity, python, others`|
 
-1.  running in git bash `$ sh _scripts/sh/create_pages.sh`, or even `$ sh ./tools/build.sh` to generate the whole website.
+1. Generate pages running in git bash `$ sh _scripts/sh/create_pages.sh`, or even `$ sh ./tools/build.sh` to generate the whole website.
 2. Send to github: `git push`
 
 ## Other resources
