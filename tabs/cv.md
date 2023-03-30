@@ -11,15 +11,15 @@ toc: true
 # 💻 Work Experience
 
 ## Doctoral Researcher
-(June 2019 - *Present*) | **Stockholm University**
+(June 2019 - December 2023) | **Stockholm University**
 
 Research area in the intersection of machine learning and immersive technologies.
 The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.<br>
 
-## Founder
+## Founder / Technical Lead
 (June 2018 - *Present*) | **PortalSense**
 
-Created a startup in Colombia that develops interactive architectural visualization for VR headsets. *Check [PortalSense](htttps://portalsense.com) for more details (in Spanish)*.
+Startup aiming to transform real estate communication in developing countries with interactive archviz in VR. Responsible for the project's vision and product development.. *Check [PortalSense](htttps://portalsense.com) for more details (in Spanish)*.
 
 ## Consultant and Developer
 (September 2017 - August 2019) | **Multiple Projects**
@@ -41,9 +41,9 @@ Support in the formulation, planning and development of applied-research project
 # 🎓 Education
 
 ## PhD in Computer and Systems Sciences
-(September 2019 - *present*) | **Stockholm University, Sweden**
+(September 2019 - December 2023) | **Stockholm University, Sweden**
 
-Research area on human behavioral analysis in interactive XR systems with machine learning methods.
+User modling in interactive VR experiences from behavioral and physiological time series using machine learning methods.
 
 ## MSc. Health Informatics
 (September 2017 - May 2019) | **Karolinska Institutet, Sweden**
@@ -60,6 +60,7 @@ GPA: 4.4/5.0 - Ranked 3rd/50 students.
 
 # 🏆 Grants and Honors
 
-- **(2017)**: Scholarship for studies at Master's level, awarded by [Swedish Institute](https://si.se/en/apply/scholarships/). [~600K SEK = ~60K USD]
-- **(2013-2015)**: Grant [Roberto Rocca](http://sobipro.manizales.unal.edu.co/index.php/noticias/35-ano-2013/3959-estudiantes-de-la-u-n-recibieron-la-beca-roberto-rocca) for tuition fees during undergraduate studies, awarded by [Ternium](https://www.robertorocca.org/). [~2000 USD]
-- **(2009-2010)**: Grant for technical/vocational training in Computer Systems, awarded by [CHEC](https://www.youtube.com/watch?v=BYSb2hy46ds). [~3000 USD]
+- **2022-2023**: Seed funding for startup [PortalSense](https://portalsense.com) by [Fondo Emprender SENA Colombia](https://www.fondoemprender.com/). [80MCOP = ~= 20K USD]
+- **2017-2019**: Scholarship for studies at Master's level, awarded by [Swedish Institute](https://si.se/en/apply/scholarships/). [~600K SEK = ~60K USD]
+- **2013-2015**: Grant [Roberto Rocca](http://sobipro.manizales.unal.edu.co/index.php/noticias/35-ano-2013/3959-estudiantes-de-la-u-n-recibieron-la-beca-roberto-rocca) for tuition fees during undergraduate studies, awarded by [Ternium](https://www.robertorocca.org/). [~2000 USD]
+- **2009-2010**: Grant for technical/vocational training in Computer Systems, awarded by [CHEC](https://www.youtube.com/watch?v=BYSb2hy46ds). [~3000 USD]

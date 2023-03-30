@@ -8,6 +8,12 @@ toc: true
 
 Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ)
 
+## 2023
+
+Quintero L, Fors U, and Papapetrou P. Personalized Feature Importance Ranking for Affect Recognition From Behavioral and Physiological Data. *IEEE Transactions on Games*. **Journal 📖** <https://doi.org/10.1109/TG.2023.3263070>
+
+**[EU Report]** Co-author in report for European Commission. Extended reality: opportunities, success stories and challenges (health, education). *Publications Office of the European Union* <https://doi.org/10.2759/121671>
+
 ## 2022
 
 Bernsland M, Moshfegh A, Lindén K, Bajin S, **Quintero L**, Solsona J, and Rostami A. CS:NO – an Extended Reality Experience for Cyber Security Education. *ACM International Conference on Interactive Media Experiences (IMX '22)*. 287–292. 2022. <https://doi.org/10.1145/3505284.3532971>
@@ -49,12 +55,12 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ## Data Science
 
-- (2020-2022)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
-- (2020-2022) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
+- (2020-present)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
+- (2020-present) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
 
 ## Virtual Reality
 
-- (2020-2022) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
+- (2020-present) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
 
 ## Other lectures
 
@@ -65,6 +71,14 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 --- 
 
 # 📜 Thesis Supervision
+
+## 2023
+
+- Helén Han, *Treatment Adherence in Digital Psychotherapy - Using Machine Learning to Predict Patient No-shows*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
+- Fan Zhang, *Exploring the requirements for the design of virtual reality serious games to support people with dementia*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
+- Mi Zhang, *Exploring how virtual material appearance with control-display ration drives the weight perception in VR within two-handed input*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
+- Johan Ekman, *Comparing learners' engagement of VR and non-VR game for programming purposes*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
+
 
 ## 2022
 
@@ -80,19 +94,13 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - Mawada Hamad,*The trade-off between performance and compression rate when applying knowledge distillation*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
 - Ali Mussayab, *Design requirements for Recruiting Contingent Café Baristas with Immersive Virtual Reality Simulations (IVRS): A design-based research approach*, MSc. Design for Creative and Immersive Technologies, Stockholm University, Sweden.
 
-
-<!-- 
-## 2021
-
-- Student, *Thesis title*, MSc.,  Year, Stockhom University, Sweden. -->
-
 ---
 
 # 📚 Other research activities
 
 - Program Committee member in IEEE International Conference on [Artificial Intelligence and Virtual Reality (AIVR)](http://www.ieee-aivr.org/)
-- Reviewer in Conference [IEEE VR](http://ieeevr.org/) (2021)
-- Reviewer in Conference [IEEE AIVR](http://www.ieee-aivr.org/) (2020, 2021)
-- Reviewer in [Granular Computing Journal](https://www.springer.com/journal/41066) (2019)
-- Reviewer in [Data Mining Journal](https://www.springer.com/journal/10618) (2022)
-- Reviewer in [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20) (2022) 
+- Reviewer in Conference [IEEE VR](http://ieeevr.org/)
+- Reviewer in Conference [IEEE AIVR](http://www.ieee-aivr.org/)
+- Reviewer in [Granular Computing Journal](https://www.springer.com/journal/41066)
+- Reviewer in [Data Mining Journal](https://www.springer.com/journal/10618)
+- Reviewer in [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20)

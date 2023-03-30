@@ -14,7 +14,7 @@ Personal library to analyze kinematic time series (motion trajectories) in Pytho
 
 [Effective Classification of Head Motion Trajectories in Virtual Reality using Time-Series Methods, *AIVR 2021*.](https://doi.org/10.1109/AIVR52153.2021.00015)
 
-⌨**Repository/Documentation:** <https://github.com/luiseduve/kinemats>
+⌨**Repository/Documentation:** <https://github.com/luisqtr/kinemats>
 
 
 ![teaser]({{site.baseurl}}/assets/img/portfolio/KinemaTS/head-mov.jpg){:width="80%"}

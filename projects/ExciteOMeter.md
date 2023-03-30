@@ -14,7 +14,9 @@ A Software Framework to Integrate Physiological Data in Extended Reality Applica
 
 📃**Paper:** [Excite-O-Meter: Software Framework to Integrate Heart Activity in Virtual Reality, *ISMAR21*.](https://doi.org/10.1109/ISMAR52148.2021.00052)
 
-⌨**Repository/Documentation:** <https://github.com/luiseduve/exciteometer>
+⌨**Repository/Documentation:** <https://github.com/luisqtr/exciteometer>
+
+📱**Windows 10 App:** <https://www.microsoft.com/store/apps/9PFMNFQJB99Q>
 
 🖥**Project Website:** <http://exciteometer.eu/>
 
@@ -24,7 +26,7 @@ A Software Framework to Integrate Physiological Data in Extended Reality Applica
 
 ## Description
 
-The `Excite-O-Meter` (`EoM`) is a package that extends a standalone Unity project with functionalities to easily record users' data in experimental sessions. It captures heart and motion activity, automatically extracts relevant data features, and visualizes the data post data collection directly in your compiled desktop application. Suitable for Unity developers wanting to analyze body responses in users or researchers conducting empirical studies in XR.
+The `Excite-O-Meter` (`EoM`) is a package that extends a standalone Unity project with functionalities to easily record users' data in experimental sessions. It captures heart and motion activity, automatically extracts relevant data features, and visualizes the collected data directly in your compiled desktop application. Suitable for Unity developers wanting to analyze body responses from users or researchers conducting empirical studies in interactive applications with Unity.
 
 The `EoM` enables the integation of heart activity and movement analysis in any standalone application created with Unity, intended for **Extended Reality (XR)**. This plugin contains all the logic to record data from external wearable sensors, log into persistent files, and visualize the captured data without leaving the Unity Editor. 
 
