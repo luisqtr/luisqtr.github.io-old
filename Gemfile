@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+
 gem "jekyll", ">=3.8.6"
 gem "tzinfo", ">=1.2.7"
 gem "tzinfo-data", ">=1.2019.3"

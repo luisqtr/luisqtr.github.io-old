@@ -4,17 +4,16 @@ title: CV
 toc: true
 ---
 
-📄 [Download CV (PDF)]({{ site.baseurl }}{% link /assets/files/LuisQuintero_CV.pdf %})
+📄 [Download Full CV (PDF)]({{ site.baseurl }}{% link /assets/files/LuisQuintero_CV.pdf %})
 
 ---
 
 # 💻 Work Experience
 
-## Doctoral Researcher
-(June 2019 - December 2023) | **Stockholm University**
+## Researcher
+(June 2019 - present) | **Stockholm University**
 
-Research area in the intersection of machine learning and immersive technologies.
-The aim of the project is to gain understanding on how behavioral data (physiology, motion, interactions) from users can be analyzed with machine learning methods to infer subjective characteristics form from users (skill level, emotional states) and inform the design of better adaptive virtual reality applications.<br>
+Research area in the data science group working on the intersection of behavioral analysis from bodily data, machine learning, and immersive technologies (VR/XR).
 
 ## Founder / Technical Lead
 (June 2018 - *Present*) | **PortalSense**
@@ -42,13 +41,14 @@ Support in the formulation, planning and development of applied-research project
 
 ## PhD in Computer and Systems Sciences
 (September 2019 - December 2023) | **Stockholm University, Sweden**
-
-User modling in interactive VR experiences from behavioral and physiological time series using machine learning methods.
+This thesis contributed with frameworks and tools for the researchers, engineers, and designers that pursue the vision of having adaptive virtual reality experiences with human sensing and immersive technologies for productivity, well-being, or education. 
+📃[See Thesis](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-222210)
 
 ## MSc. Health Informatics
 (September 2017 - May 2019) | **Karolinska Institutet, Sweden**
 
 Design, implementation, and management of projects related to digital health sensors and health information systems.
+📃[See Thesis]({{ site.baseurl }}{% link /assets/files/2019_MasterThesis_LuisQuintero.pdf %})
 
 ## BSc. Electronics Engineering
 (February 2010 - August 2015) | **National University, Colombia**

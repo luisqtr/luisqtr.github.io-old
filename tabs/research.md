@@ -10,6 +10,8 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2023
 
+**[PhD Thesis]** **Quintero, L.** User Modeling for Adaptive Virtual Reality Experiences: Personalization from Behavioral and Physiological Time Series. Stockholm University, Department of Computer and Systems Sciences. <br> 🔍[See PDF...](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-222210)
+
 Quintero L, Fors U, and Papapetrou P. Personalized Feature Importance Ranking for Affect Recognition From Behavioral and Physiological Data. *IEEE Transactions on Games*. **Journal 📖** <https://doi.org/10.1109/TG.2023.3263070>
 
 **[EU Report]** Co-author in report for European Commission. Extended reality: opportunities, success stories and challenges (health, education). *Publications Office of the European Union* <https://doi.org/10.2759/121671>
@@ -62,11 +64,14 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 - (2020-present) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
 
-## Other lectures
+## Other Lectures and Seminars
 
-- (2016) *Microprocessors architecture*, Course Leader, Feb-Jun. For students in BSc in Mechanical Engineering, **Caldas University, Colombia**.
-- (2016) *Application development with Unity*, Course Leader, Feb-Jun. For students of vocational training in Visual Design, **Unitécnica Manizales, Colombia**.
-- (2016) *Introduction to databases*, Course Leader, Feb-Jun. For students of vocational training in Computer Science. **Unitécnica Manizales, Colombia**.
+- (2023) *Prototyping Virtual Reality Applications in Unity*, Invited Lecturer, Sep, (20h). MSc students in Industrial Design, *Umeå Institute of Design, Umeå, Sweden*
+- (2023) *Introduction to Data Analytics and Artificial Intelligence*, Invited Lecturer, June, (24h). *RUAV, Cali, Colombia (virtual)*
+- (2016) *Microprocessors architecture*, Course Leader, Feb-Jun. In BSc in Mechanical Engineering, *Caldas University, Colombia*.
+- (2016) *Application development with Unity*, Course Leader, Feb-Jun. Vocational training in Visual Design, *Unitécnica Manizales, Colombia*.
+- (2016) *Introduction to databases*, Course Leader, Feb-Jun. Vocational training in Computer Science. *Unitécnica Manizales, Colombia*.
+
 
 --- 
 
@@ -96,11 +101,20 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ---
 
-# 📚 Other research activities
+# 📚 Research activities / Service
 
-- Program Committee member in IEEE International Conference on [Artificial Intelligence and Virtual Reality (AIVR)](http://www.ieee-aivr.org/)
-- Reviewer in Conference [IEEE VR](http://ieeevr.org/)
-- Reviewer in Conference [IEEE AIVR](http://www.ieee-aivr.org/)
-- Reviewer in [Granular Computing Journal](https://www.springer.com/journal/41066)
-- Reviewer in [Data Mining Journal](https://www.springer.com/journal/10618)
-- Reviewer in [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20)
+
+## Committee Chair
+- Demo Chair in [IMX'24](https://imx.acm.org/2024)
+- Proceedings Chair in [MUM'24](https://mum-conf.org/2024/)
+
+## Committee member
+- IEEE International Conference on [Artificial Intelligence & Extended and Virtual Reality (AIxVR)](http://www.ieee-aivr.org/): 2020-2023
+
+## Reviewer
+
+- [Granular Computing Journal](https://www.springer.com/journal/41066):
+- [Data Mining Journal](https://www.springer.com/journal/10618): 2022,2023
+- [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20): 2022
+- [IEEE ACII](https://acii-conf.net/2023/): 2023
+- [IEEE VR](http://ieeevr.org/): 2021

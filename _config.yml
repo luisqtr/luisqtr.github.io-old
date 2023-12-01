@@ -10,10 +10,12 @@
 title: Luis Quintero
 
 # it will display as the sub-title
-tagline: Doctoral researcher <br> <b>@Stockholm Uni., DSV</b> <br><br> Working with... <br> 😎 VR + ML <br> 🔨 Unity + Python
+tagline: Immersive and intelligent VR/XR 😎 with body sensors ❣️ and AI 📅 <br><br> Researcher, data scientist (Python), and XR developer (Unity)
 
 description: >-                        # used by seo meta and the atom feed
-  Luis Quintero | Personal Website > [ENG] Unity developer and doctoral (PhD) researcher in XR technologies working with behavioral analysis in interactive Virtual Reality (VR) environments using Machine Learning. [ESP] Desarrollador de sistemas de realidad virtual e investigador doctoral explorando análisis de comportamiento en entornos interactivos virtuales con análisis de datos e inteligencia artificial.
+  Luis Quintero | Personal Website > 
+  [ENG] Researcher (PhD) and developer creating interactive systems with immersive (VR, XR) technologies, body sensing devices and machine learning.
+  [ESP] Investigador (PhD) y desarrollador de sistemas interactivos con realidad virtual, sensores corporales e inteligencia artificial.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://luisqtr.com/'
