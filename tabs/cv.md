@@ -40,7 +40,7 @@ Support in the formulation, planning and development of applied-research project
 # 🎓 Education
 
 ## PhD in Computer and Systems Sciences
-(September 2019 - December 2023) | **Stockholm University, Sweden**
+(September 2019 - November 2023) | **Stockholm University, Sweden**
 This thesis contributed with frameworks and tools for the researchers, engineers, and designers that pursue the vision of having adaptive virtual reality experiences with human sensing and immersive technologies for productivity, well-being, or education. 
 📃[See Thesis](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-222210)
 

@@ -8,11 +8,15 @@ toc: true
 
 Full list of publications on [Google Scholar](https://scholar.google.com/citations?user=RYg_PGQAAAAJ)
 
+## 2024
+
+Gnacek M, **Quintero L**, Mavridou I _et al._ AVDOS-VR: Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR. **Nature Scientific Data** <https://doi.org/10.1038/s41597-024-02953-6>
+
 ## 2023
 
 **[PhD Thesis]** **Quintero, L.** User Modeling for Adaptive Virtual Reality Experiences: Personalization from Behavioral and Physiological Time Series. Stockholm University, Department of Computer and Systems Sciences. <br> 🔍[See PDF...](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-222210)
 
-Quintero L, Fors U, and Papapetrou P. Personalized Feature Importance Ranking for Affect Recognition From Behavioral and Physiological Data. *IEEE Transactions on Games*. **Journal 📖** <https://doi.org/10.1109/TG.2023.3263070>
+**Quintero L**, Fors U, and Papapetrou P. Personalized Feature Importance Ranking for Affect Recognition From Behavioral and Physiological Data. *IEEE Transactions on Games*. **Journal 📖** <https://doi.org/10.1109/TG.2023.3263070>
 
 **[EU Report]** Co-author in report for European Commission. Extended reality: opportunities, success stories and challenges (health, education). *Publications Office of the European Union* <https://doi.org/10.2759/121671>
 
@@ -57,12 +61,16 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ## Data Science
 
-- (2020-present)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
-- (2020-present) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
+- (2024) Course assistant, 75h, *Data Science for Health Informatics (DSHI)*, **DSV, SU, Sweden**.
+- (2020-2023)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
+- (2020-2023) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
 
-## Virtual Reality
+## Digital Media and Immersive Technologies
 
-- (2020-present) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
+- (2024) Course co-responsible, 100h, *Design for Emerging Technologies (DET)*, **Stockholm University, Sweden**.
+- (2024) Course assistant, 30h, *Immersive Environments (IM)*, **Stockholm University, Sweden**.
+- (2024) Course assistant, 30h, *Transmedia*, **Stockholm University, Sweden**.
+- (2020-2023) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
 
 ## Other Lectures and Seminars
 
@@ -76,6 +84,11 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 --- 
 
 # 📜 Thesis Supervision
+
+## 2024 (ongoing)
+
+- Five thesis in MSc. Design for Immersive Technologies, SU, Sweden.
+- One thesis in MSc. Health Informatics, KI/SU, Sweden.
 
 ## 2023
 
@@ -113,8 +126,9 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ## Reviewer
 
-- [Granular Computing Journal](https://www.springer.com/journal/41066):
-- [Data Mining Journal](https://www.springer.com/journal/10618): 2022,2023
-- [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20): 2022
-- [IEEE ACII](https://acii-conf.net/2023/): 2023
-- [IEEE VR](http://ieeevr.org/): 2021
+- [CHI](https://www.springer.com/journal/41066): '24
+- [IEEE ACII](https://acii-conf.net/2023/): '23
+- [Data Mining Journal](https://www.springer.com/journal/10618): '22 '23
+- [International Journal Human Computer Interaction](https://www.tandfonline.com/action/journalInformation?journalCode=hihc20): '22
+- [Granular Computing Journal](https://www.springer.com/journal/41066): '21
+- [IEEE VR](http://ieeevr.org/): '21
