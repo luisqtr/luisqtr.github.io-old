@@ -61,21 +61,22 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 ## Data Science
 
-- (2024) Course assistant, 75h, *Data Science for Health Informatics (DSHI)*, **DSV, SU, Sweden**.
-- (2020-2023)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
-- (2020-2023) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
+- (2024) Course assistant, 110h, *Data Science for Health Informatics (DSHI)*, 80pp, **DSV, SU, Sweden**.
+- (2020-2023)*Lab: Data Mining with Python*, Teaching Assistant, Aug-Oct, 140h, +600pp. Part of the course *Data Mining in Computer and Systems Sciences*, **Stockholm University, Sweden**.
+- (2020-2023) *Lab: Introduction to Data Mining with Python*, Teaching Assistant, Mar-May, 75h, +120pp. Part of the course *Data Sciences for Health Informatics*, **Stockholm University, Sweden**.
 
 ## Digital Media and Immersive Technologies
 
-- (2024) Course co-responsible, 100h, *Design for Emerging Technologies (DET)*, **Stockholm University, Sweden**.
-- (2024) Course assistant, 30h, *Immersive Environments (IM)*, **Stockholm University, Sweden**.
-- (2024) Course assistant, 30h, *Transmedia*, **Stockholm University, Sweden**.
+- (2024) Course co-responsible, 20h, *Design for Complex and Dynamic Contexts (DCDC)*, 10pp, **Stockholm University, Sweden**.
+- (2024) Course co-responsible, 100h, *Design for Emerging Technologies (DET)*, 10pp, **Stockholm University, Sweden**.
+- (2024) Course assistant, 30h, *Immersive Environments (IM)*, 30pp, **Stockholm University, Sweden**.
+- (2024) Course assistant, 30h, *Transmedia*, 30pp, **Stockholm University, Sweden**.
 - (2020-2023) *Lab: Building Virtual Reality Apps with Unity*, Teaching Assistant, February, 20h. Part of the course *Design for Emerging Technologies*, **Stockholm University, Sweden**.
 
 ## Other Lectures and Seminars
 
-- (2023) *Prototyping Virtual Reality Applications in Unity*, Invited Lecturer, Sep, (20h). MSc students in Industrial Design, *Umeå Institute of Design, Umeå, Sweden*
-- (2023) *Introduction to Data Analytics and Artificial Intelligence*, Invited Lecturer, June, (24h). *RUAV, Cali, Colombia (virtual)*
+- (2023) *Prototyping Virtual Reality Applications in Unity*, Invited Lecturer, Sep, (20h), 20pp. MSc students in Industrial Design, *Umeå Institute of Design, Umeå, Sweden*
+- (2023) *Introduction to Data Analytics and Artificial Intelligence*, Invited Lecturer, June, (24h), 25pp. *RUAV, Cali, Colombia (virtual)*
 - (2016) *Microprocessors architecture*, Course Leader, Feb-Jun. In BSc in Mechanical Engineering, *Caldas University, Colombia*.
 - (2016) *Application development with Unity*, Course Leader, Feb-Jun. Vocational training in Visual Design, *Unitécnica Manizales, Colombia*.
 - (2016) *Introduction to databases*, Course Leader, Feb-Jun. Vocational training in Computer Science. *Unitécnica Manizales, Colombia*.
