@@ -10,12 +10,12 @@
 title: Luis Quintero
 
 # it will display as the sub-title
-tagline: Immersive and intelligent VR/XR 😎 with body sensors ❣️ and AI 📅 <br><br> Researcher, data scientist (Python), and XR developer (Unity)
+tagline: PhD in data science and immersive technologies. <br><br> Creating virtual worlds combining AI and XR.
 
 description: >-                        # used by seo meta and the atom feed
   Luis Quintero | Personal Website > 
-  [ENG] Researcher (PhD) and developer creating interactive systems with immersive (VR, XR) technologies, body sensing devices and machine learning.
-  [ESP] Investigador (PhD) y desarrollador de sistemas interactivos con realidad virtual, sensores corporales e inteligencia artificial.
+  Engineer and researcher (PhD) designing and building projects intersecting data science techniques, AI tools, smart wearables, and immersive virtual worlds (VR, AR, XR, and spatial computing). 
+  [ESP] Ingeniero e investigador (PhD) diseñando proyectos que intersectan ciencias de datos, inteligencia artificial (IA), sensores corporales, y mundos virtuales inmersivos. Ubicado en Estocolmo, Suecia y coordinando PortalSense en Manizales, Colombia.
 
 # Replace with the website url, e.g. 'https://username.github.io'
 url: 'https://luisqtr.com/'
@@ -36,7 +36,7 @@ linkedin:
 
 social:
   name: Luis Quintero                  # it will shows as the copyright owner in Footer
-  email: luis-eduardo@dsv.su.se             # change to your email address
+  email: luis.quintero@dsv.su.se             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://github.com/luisqtr       # change to your github homepage

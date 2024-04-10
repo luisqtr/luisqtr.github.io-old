@@ -10,8 +10,8 @@ label: "Share"
 
 platforms:
   -
-    type: Twitter
-    icon: "fab fa-twitter"
+    type: Twitter/X
+    icon: "fab fa-x-twitter"
     link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
   -
     type: Facebook

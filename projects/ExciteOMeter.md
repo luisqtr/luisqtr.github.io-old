@@ -16,7 +16,7 @@ A Software Framework to Integrate Physiological Data in Extended Reality Applica
 
 ⌨**Repository/Documentation:** <https://github.com/luisqtr/exciteometer>
 
-📱**Windows 10 App:** <https://www.microsoft.com/store/apps/9PFMNFQJB99Q>
+📱**Windows 10/11 App:** <https://www.microsoft.com/store/apps/9PFMNFQJB99Q>
 
 🖥**Project Website:** <http://exciteometer.eu/>
 
