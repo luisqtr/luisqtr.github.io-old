@@ -6,6 +6,7 @@ toc: true
 
 📡 **Podcasts, interviews, presentations, and other media.**
 
+| *2024-01-03* 📄 [**Magazine article:** Wearables and decentralized internet][the_conversation_24]{:target="_blank"} <br> Perspective published on the research magazine The Conversation, titled: *A new wave of wearable devices will collect a mountain on information on us – we need to get wise about the privacy implications*. | [![TC][the_conversation_24_img]{:width="100%"}][the_conversation_24]{:target="_blank"} |
 | *2024-01-03* 📄 [**Interview:** "The real game changer is smart glasses"][blog_phd_2024]{:target="_blank"} <br> Interview summarizing my PhD thesis at Stockholm University: *User Modeling for Adaptive Virtual Reality Experiences*. More information about the thesis [in this link]({{site.baseurl}}/posts/phd-defense/) | [![SU][blog_phd_2024_img]{:width="100%"}][blog_phd_2024_img]{:target="_blank"} |
 | *2022-12-06* 📄 [**Talk:** User Modeling in Virtual Reality Environments][cwi_link]{:target="_blank"} <br> Early overview of my doctoral work at Stockholm University: *Time-series analysis for behavioural user modelling in interactive virtual environments*. | [![CWI][cwi_img]{:width="100%"}][cwi_link]{:target="_blank"} |
 | *2022-12-06* 📄 [**Talk:** Visualizando el futuro en realidad virtual][portalsense_2022]{:target="_blank"} <br> An outlook on how virtual reality may transform real estate communication in the future generation of home buyers with [PortalSense]. | [![PortalSense]({{site.baseurl}}/assets/img/media/221206talk-portalsense.jpg){:width="100%"}][portalsense_2022]{:target="_blank"} |
@@ -15,6 +16,9 @@ toc: true
 | *2020-10-26* 🔊 [**Podcast Interview:** Combining ML with VR][versatilist]{:target="_blank"}  <br> Interviewed by the [Immersive Learning Network](https://immersivelrn.org/). Here, I discussed with Patrick O'Shea about the methodological aspects of combining ML and VR in research projects, as presented in my paper: ["*Understanding research methodologies when combining virtual reality technology with machine learning techniques*"](https://doi.org/10.1145/3389189.3394093){:target="_blank"}. |  <br>|
 
 <!-- LINKS -->
+
+[the_conversation_24]: https://theconversation.com/a-new-wave-of-wearable-devices-will-collect-a-mountain-on-information-on-us-we-need-to-get-wise-about-the-privacy-implications-226537
+[the_conversation_24_img]: https://cdn.theconversation.com/static/tc/@theconversation/ui/dist/esm/logos/logo-en-b159aca2598f351db37072c75294e4c8.svg
 
 [blog_phd_2024]: https://www.su.se/english/research/news-research/the-real-game-changer-is-when-regular-glasses-become-smart-1.703576
 [blog_phd_2024_img]: https://www.su.se/polopoly_fs/1.703580!/image/image.jpg_gen/derivatives/landscape_690/image.jpg
