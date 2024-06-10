@@ -10,6 +10,8 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2024
 
+Ekman J, Solsona J, **Quintero L**,. Codeseum: Learning Introductory Programming Concepts through Virtual Reality Puzzles. **ACM Interactive Media Experiences (IMX)** <https://doi.org/10.1145/3639701.3656306>
+
 Gnacek M, **Quintero L**, Mavridou I _et al._ AVDOS-VR: Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR. **Nature Scientific Data** <https://doi.org/10.1038/s41597-024-02953-6>
 
 ## 2023
@@ -86,10 +88,15 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 
 # 📜 Thesis Supervision
 
-## 2024 (ongoing)
+## 2024
 
-- Five thesis in MSc. Design for Immersive Technologies, SU, Sweden.
-- One thesis in MSc. Health Informatics, KI/SU, Sweden.
+- Maria Dodieva, *Early detection of Alzheimer disease with the VR City Navigation game*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
+- Johanna Ulrichs, *The Virtual Body and Locomotion - Comparing the Effects of Different Locomotion Techniques on Embodiment and User Experience in Third Person Virtual Reality*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
+- Elias Lundahl, *Evaluating the impact of passthrough for XR-based meditation experiences*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
+- Hoda Ismail, *Exploring the Impact of Virtual Environment Factors on Stress Reduction in VR Meditation*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
+- Aufar Tirta Firdaus, *Explainable AI for Emotion Recognition: Interpreting Cardiovascular Data in Virtual Reality Users*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
+- Dogu Ziylan Uyar, *Evaluating User’s Spatial Learning in Photo-Realistic Virtual Environments during Navigational Tasks in Extended Reality*, MSc. Design for Immersive Technologies, Stockholm University, Sweden. (co-supervisor)
+- Siyue Lu, *Facilitating Location-Based Mixed Reality: The Applicability, Benefits, and Challenges of 5G Positioning*, MSc. Design for Immersive Technologies, Stockholm University, Sweden. (co-supervisor)
 
 ## 2023
 
@@ -98,20 +105,19 @@ Badia, S. B. i, **Quintero, L. V.**, Cameirao, M. S., Chirico, A., Triberti, S.,
 - Mi Zhang, *Exploring how virtual material appearance with control-display ration drives the weight perception in VR within two-handed input*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
 - Johan Ekman, *Comparing learners' engagement of VR and non-VR game for programming purposes*, MSc. Design for Immersive Technologies, Stockholm University, Sweden.
 
-
 ## 2022
 
-- Daniel Schulze, *Explainability of personalized stress detection models from wearable-collectible physiological data*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
-- Divya Damodaran, *Machine Learning for prediction of start and termination of Freezing of Gait in Parkinson’s Disease*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
-- Yujie Xiang, *Understanding Heart Rate Responses to Detect Emotional Valence Using Interpretable Machine Learning*, MSc. Health Infromatics, Karolinska Institutet, Sweden.
+- Daniel Schulze, *Explainability of personalized stress detection models from wearable-collectible physiological data*, MSc. Health Infromatics, Karolinska Institutet, Sweden. (co-supervisor)
+- Divya Damodaran, *Machine Learning for prediction of start and termination of Freezing of Gait in Parkinson’s Disease*, MSc. Health Infromatics, Karolinska Institutet, Sweden. (co-supervisor)
+- Yujie Xiang, *Understanding Heart Rate Responses to Detect Emotional Valence Using Interpretable Machine Learning*, MSc. Health Infromatics, Karolinska Institutet, Sweden. (co-supervisor)
 
 ## 2021
 
-- Dana Kokey, *Towards detecting arousal level from heart rate information in virtual reality 360-degree videos*, MSc. Health Informatics, Karolinska Institutet, Sweden.
-- Alborz Alipour, *Outlier Detection in Stock Market Prediction through Anomaly Detection*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
-- Samiiha Nalwooga, *Knowledge distillation for building accurate plant classification models for mobile devices*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
-- Mawada Hamad,*The trade-off between performance and compression rate when applying knowledge distillation*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden.
-- Ali Mussayab, *Design requirements for Recruiting Contingent Café Baristas with Immersive Virtual Reality Simulations (IVRS): A design-based research approach*, MSc. Design for Creative and Immersive Technologies, Stockholm University, Sweden.
+- Dana Kokey, *Towards detecting arousal level from heart rate information in virtual reality 360-degree videos*, MSc. Health Informatics, Karolinska Institutet, Sweden. (co-supervisor)
+- Alborz Alipour, *Outlier Detection in Stock Market Prediction through Anomaly Detection*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden. (co-supervisor)
+- Samiiha Nalwooga, *Knowledge distillation for building accurate plant classification models for mobile devices*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden. (co-supervisor)
+- Mawada Hamad,*The trade-off between performance and compression rate when applying knowledge distillation*, MSc. Computer Science and Systems Sciences, Stockholm University, Sweden. (co-supervisor)
+- Ali Mussayab, *Design requirements for Recruiting Contingent Café Baristas with Immersive Virtual Reality Simulations (IVRS): A design-based research approach*, MSc. Design for Creative and Immersive Technologies, Stockholm University, Sweden. (co-supervisor)
 
 ---
 
