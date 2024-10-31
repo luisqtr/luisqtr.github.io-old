@@ -10,10 +10,10 @@ toc: true
 
 # 💻 Work Experience
 
-## Associate Lecturer and Researcher
-(April 2024 - present) | **Stockholm University**
+## Assistant Professor
+(August 2024 - present) | **Stockholm University**
 
-Lecturer within the fields of digital media, immersive technologies, and data science.
+Assistant Professor within the fields of digital media, immersive technologies, and data science.
 
 ## Founder / Technical Lead
 (June 2018 - *Present*) | **PortalSense**
@@ -21,7 +21,7 @@ Lecturer within the fields of digital media, immersive technologies, and data sc
 Startup aiming to transform real estate communication in developing countries with interactive archviz in VR. Responsible for the project's vision and product development.. *Check [PortalSense](htttps://portalsense.com) for more details (in Spanish)*.
 
 ## Researcher
-(June 2019 - March 2024) | **Stockholm University**
+(June 2019 - July 2024) | **Stockholm University**
 
 Research area in the data science group working on the intersection of behavioral analysis from bodily data, machine learning, and immersive technologies (VR/XR).
 

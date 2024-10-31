@@ -10,6 +10,8 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 ## 2024
 
+Ulrichs J, Matviienko A, **Luis Quintero**,. Effects of Third-Person Locomotion Techniques on Sense of Embodiment in Virtual Reality. **ACM Mobile and Ubiquitous Multimedia (MUM)** <https://doi.org/10.1145/3701571.3701598>
+
 Ekman J, Solsona J, **Quintero L**,. Codeseum: Learning Introductory Programming Concepts through Virtual Reality Puzzles. **ACM Interactive Media Experiences (IMX)** <https://doi.org/10.1145/3639701.3656306>
 
 Gnacek M, **Quintero L**, Mavridou I _et al._ AVDOS-VR: Affective Video Database with Physiological Signals and Continuous Ratings Collected Remotely in VR. **Nature Scientific Data** <https://doi.org/10.1038/s41597-024-02953-6>

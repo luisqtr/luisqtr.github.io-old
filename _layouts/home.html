@@ -3,6 +3,7 @@ layout: page
 # The Home page layout
 ---
 
+
 <div class="d-flex justify-content-center">
 <h1 class="dynamic-title">
   {{site.title}}
@@ -12,21 +13,21 @@ layout: page
 <hr>
 
 <div class="row justify-content-center">
-  <div class="col-4 col-lg-3 col-xl-3">
+  <div class="col-4 col-lg-4 col-xl-4">
     <!-- <div id="avatar" class="d-flex align-content-center"> -->
       <img style="width:100%; border-radius: 50%" src="{{site.baseurl}}{{site.avatar}}">
     <!-- </div> -->
   </div> <!-- #page -->
-  <div class="col-10 col-lg-7 col-xl-7">
+  <div class="col-8 col-lg-8 col-xl-8">
     <p align="justify">
-      Engineer and researcher (PhD) in the <a target="_blank" href="https://datascience.dsv.su.se/">Data Science Group</a>. Designing projects that intersect immersive virtual worlds (VR, AR, XR, and spatial computing) with smart wearables, AI solutions, and data science algorithms. 
+      Assistant Professor at Stockholm University within the <a target="_blank" href="https://dsv.su.se/">Department of Computer and Systems Sciences (DSV)</a>. My work primarily involves behavioral modeling with machine learning and AI techniques in immersive extended reality (XR) systems. I focus on adaptive personalized XR environments integrating physiological data with wearables and behavioral analytics.
       <br><br>
-      Cofounder and CTO of <a target="_blank" href="https://portalsense.com/">PortalSense</a>, a tech startup onboarding real estate businesses in the next digital transformation with immersive technologies.
+      Cofounder and CTO at <a target="_blank" href="https://portalsense.com/">PortalSense</a>, a startp based in Colombia onboarding real estate businesses in the next digital transformation with immersive technologies and interactive architectural visualization.
       <br><br>
     </p>
   </div> <!-- #page -->
 
-  🌎 Stockholm (Sweden) 📌 Manizales (Colombia)
+  📌 Stockholm (Sweden) - 🏡 Manizales (Colombia)
 
 </div><!-- .col-12 -->
 
@@ -85,8 +86,11 @@ layout: page
 
 
 <hr>
-<br>
 
+
+{% comment %}
+
+<br>
 <h1 class="d-flex justify-content-center">
   Personal Notes / Blog
 </h1>
@@ -106,14 +110,15 @@ layout: page
     </div>
 
     <div class="post-meta text-muted">
-      <!-- posted date -->
+      
       <i class="far fa-clock fa-fw"></i>
       <span class="timeago" data-toggle="tooltip" data-placement="bottom"
         title="{{ post.date | date: site.data.date_format.tooltip }}">
       {{ post.date | date: site.data.date_format.post }}
       <i class="unloaded">{{ post.date | date_to_xmlschema }}</i>
       </span>
-      <!-- page views -->
+      
+      
       {% if site.google_analytics.pv.enabled %}
       <i class="far fa-eye fa-fw"></i>
       <span id="pv_{{-post.title-}}" class="pageviews">
@@ -121,10 +126,12 @@ layout: page
       </span>
       {% endif %}
     </div>
-  </div> <!-- .post-review -->
+  </div> 
   {% endfor %}
-</div> <!-- #post-list -->
-
+</div> 
+ 
 {% if paginator.total_pages > 0 %}
   {% include post-paginator.html %}
 {% endif %}
+
+{% endcomment %}
