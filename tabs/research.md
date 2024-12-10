@@ -12,7 +12,7 @@ Full list of publications on [Google Scholar](https://scholar.google.com/citatio
 
 Ulrichs J, Matviienko A, **Quintero L**,. Effects of Third-Person Locomotion Techniques on Sense of Embodiment in Virtual Reality. **ACM Mobile and Ubiquitous Multimedia (MUM)** <https://doi.org/10.1145/3701571.3701598>
 
-Stepanova Ekaterina, ..., **Quintero L**, ... **Mayer S**. Envisioning Ubiquitous Biosignal Interaction with Multimedia. **ACM Mobile and Ubiquitous Multimedia (MUM)** <https://doi.org/10.1145/3701571.3701609>
+Stepanova Ekaterina, ..., **Quintero L**, ... _et al._, Envisioning Ubiquitous Biosignal Interaction with Multimedia. **ACM Mobile and Ubiquitous Multimedia (MUM)** <https://doi.org/10.1145/3701571.3701609>
 
 Dodieva M, **Quintero L** ,. Comparing Early-Stage Symptoms of Spatial Disorientation Between Virtual Reality Navigation and Paper-Based MoCA Test. **ACM Mobile and Ubiquitous Multimedia (MUM)** <https://doi.org/10.1145/3701571.3703380>
 
